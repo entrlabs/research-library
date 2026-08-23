@@ -1,0 +1,157 @@
+{
+  "source": "OpenAlex Sources API",
+  "retrieved": "2026-08-23",
+  "measure": "Two-year mean citedness and h-index",
+  "top_quartile_rule": "At or above the 75th percentile of two-year mean citedness among the 21 journals represented by the selected 25 papers",
+  "threshold": 7.0076190476,
+  "caveat": "This is a custom within-shortlist tier, not an SJR or Journal Citation Reports quartile and not field-normalized.",
+  "journals": [
+    {
+      "journal": "Academy of Management Learning & Education",
+      "two_year_mean_citedness": 8.219047619,
+      "h_index": 143,
+      "openalex": "https://openalex.org/S45682993",
+      "tier": "Top quartile in shortlist"
+    },
+    {
+      "journal": "Active Learning in Higher Education",
+      "two_year_mean_citedness": 2.6601941748,
+      "h_index": 92,
+      "openalex": "https://openalex.org/S63896471",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Asia Pacific Education Review",
+      "two_year_mean_citedness": 2.5391705069,
+      "h_index": 74,
+      "openalex": "https://openalex.org/S184932276",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Education Sciences",
+      "two_year_mean_citedness": 4.7996834728,
+      "h_index": 116,
+      "openalex": "https://openalex.org/S2738008561",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Environmental Education Research",
+      "two_year_mean_citedness": 3.8568232662,
+      "h_index": 139,
+      "openalex": "https://openalex.org/S94060836",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Frontiers in Psychology",
+      "two_year_mean_citedness": 3.5170611986,
+      "h_index": 310,
+      "openalex": "https://openalex.org/S9692511",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Higher Education Research & Development",
+      "two_year_mean_citedness": 4.2009925558,
+      "h_index": 143,
+      "openalex": "https://openalex.org/S4210176587",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Journal of Applied Research in Higher Education",
+      "two_year_mean_citedness": 2.9097222222,
+      "h_index": 49,
+      "openalex": "https://openalex.org/S2765041812",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Journal of Cleaner Production",
+      "two_year_mean_citedness": 12.7102964836,
+      "h_index": 451,
+      "openalex": "https://openalex.org/S58516903",
+      "tier": "Top quartile in shortlist"
+    },
+    {
+      "journal": "Journal of Experiential Education",
+      "two_year_mean_citedness": 1.1848739496,
+      "h_index": 70,
+      "openalex": "https://openalex.org/S201876622",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Journal of Knowledge Management",
+      "two_year_mean_citedness": 7.6893787575,
+      "h_index": 194,
+      "openalex": "https://openalex.org/S50631486",
+      "tier": "Top quartile in shortlist"
+    },
+    {
+      "journal": "Journal of Management Education",
+      "two_year_mean_citedness": 2.2314814814,
+      "h_index": 86,
+      "openalex": "https://openalex.org/S190363454",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Journal of Marketing Education",
+      "two_year_mean_citedness": 9.1451612903,
+      "h_index": 96,
+      "openalex": "https://openalex.org/S153861934",
+      "tier": "Top quartile in shortlist"
+    },
+    {
+      "journal": "Michigan Journal of Community Service Learning",
+      "two_year_mean_citedness": 0.5789473684,
+      "h_index": 20,
+      "openalex": "https://openalex.org/S2764621431",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Nonprofit and Voluntary Sector Quarterly",
+      "two_year_mean_citedness": 1.6176470588,
+      "h_index": 134,
+      "openalex": "https://openalex.org/S168572994",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Studies in Higher Education",
+      "two_year_mean_citedness": 7.0076190476,
+      "h_index": 189,
+      "openalex": "https://openalex.org/S162196882",
+      "tier": "Top quartile in shortlist"
+    },
+    {
+      "journal": "Teaching Sociology",
+      "two_year_mean_citedness": 0.5793650794,
+      "h_index": 149,
+      "openalex": "https://openalex.org/S151245446",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Teaching and Teacher Education",
+      "two_year_mean_citedness": 4.8320683112,
+      "h_index": 249,
+      "openalex": "https://openalex.org/S94618750",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "The International Journal of Management Education",
+      "two_year_mean_citedness": 7.0268199234,
+      "h_index": 91,
+      "openalex": "https://openalex.org/S135394783",
+      "tier": "Top quartile in shortlist"
+    },
+    {
+      "journal": "The Journal of Higher Education",
+      "two_year_mean_citedness": 2.3087248322,
+      "h_index": 234,
+      "openalex": "https://openalex.org/S71326023",
+      "tier": "Other shortlisted source"
+    },
+    {
+      "journal": "Theory Into Practice",
+      "two_year_mean_citedness": 2.44,
+      "h_index": 130,
+      "openalex": "https://openalex.org/S9733372",
+      "tier": "Other shortlisted source"
+    }
+  ]
+}

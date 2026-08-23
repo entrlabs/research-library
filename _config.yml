@@ -1,0 +1,23 @@
+title: EntrSL Evidence Library
+description: Part of The Yes-Way. Evidence for service that develops people, partners, and institutions.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+collections:
+  papers:
+    output: true
+    permalink: /evidence/entrsl/papers/:name/
+defaults:
+  - scope:
+      path: ""
+      type: papers
+    values:
+      layout: paper
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - audit
+  - README.md
+  - references.bib
