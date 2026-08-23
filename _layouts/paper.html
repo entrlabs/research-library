@@ -16,7 +16,7 @@ layout: default
       {{ content }}
     </div>
     <aside class="paper-detail__aside">
-      <div class="score-card"><p class="eyebrow">Article appraisal</p><div><strong>{{ page.total_score }}</strong><span>/ 10</span></div><dl><dt>NEXUS / EntrSL relevance</dt><dd>{{ page.relevance_score }}/5</dd><dt>Evidence quality</dt><dd>{{ page.evidence_quality_score }}/5</dd></dl></div>
+      <div class="score-card"><p class="eyebrow">Article appraisal</p><div><strong>{{ page.total_score }}</strong><span>/ 10</span></div><dl><dt>EntrSL relevance</dt><dd>{{ page.relevance_score }}/5</dd><dt>Evidence quality</dt><dd>{{ page.evidence_quality_score }}/5</dd></dl></div>
       <div class="source-card"><p class="eyebrow">Journal context</p><strong>{{ page.journal }}</strong><dl><dt>OpenAlex 2-year mean citedness</dt><dd>{{ page.journal_2yr_citedness }}</dd><dt>OpenAlex h-index</dt><dd>{{ page.journal_h_index }}</dd></dl><a href="{{ page.journal_openalex }}">OpenAlex source ↗</a><small>Descriptive source metrics only. They do not affect this paper’s evidence score.</small></div>
     </aside>
   </div>

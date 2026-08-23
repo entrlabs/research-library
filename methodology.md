@@ -16,7 +16,7 @@ Screening terms covered service-learning, academic service-learning, community-e
 
 The final 25 prioritize direct relevance, methodological strength, conceptual importance, stakeholder coverage, and usefulness for NEXUS/EntrSL design. Each paper receives two article-level scores:
 
-- **NEXUS relevance (1–5):** directness to service-learning and experiential-learning design, entrepreneurship, reflection, reciprocity, outcomes, or institutional practice.
+- **EntrSL relevance (1–5):** directness to service-learning and experiential-learning design, entrepreneurship, reflection, reciprocity, outcomes, or institutional practice.
 - **Evidence quality (1–5):** fit and transparency of study design, sample or synthesis breadth, analytical quality, and inferential limits.
 
 These scores are added for ordering only. They are not a meta-analytic effect, certainty grade, or claim that unlike methods are interchangeable. Full text was reviewed for **23 papers**. Two records remain abstract/metadata-only and are explicitly flagged.

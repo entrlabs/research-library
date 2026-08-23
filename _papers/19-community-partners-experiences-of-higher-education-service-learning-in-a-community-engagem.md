@@ -35,7 +35,7 @@ Examines partners as co-educators in a community-engagement module.
 
 Reciprocity depended on communication, role clarity, and recognizing community expertise.
 
-## NEXUS / EntrSL interpretation
+## EntrSL interpretation
 
 This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
 
@@ -45,7 +45,7 @@ Abstract/metadata-only in this audit; one institutional context.
 
 ## Scoring rationale
 
-- **NEXUS relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
+- **EntrSL relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
 - **Evidence quality: 3/5.** Based on design transparency, sample or review breadth, analytical fit, and inferential limits.
 - **Journal standing is separate.** OpenAlex two-year mean citedness and h-index are descriptive source metrics and do not increase this paper's evidence score.
 

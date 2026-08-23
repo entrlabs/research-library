@@ -35,7 +35,7 @@ Identifies high-leverage practices in sustainability-focused service-learning.
 
 An epistemic community iteratively developed practices connecting environmental problems, partners, and student work.
 
-## NEXUS / EntrSL interpretation
+## EntrSL interpretation
 
 This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
 
@@ -45,7 +45,7 @@ Course-development evidence rather than a causal outcome evaluation.
 
 ## Scoring rationale
 
-- **NEXUS relevance: 4/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
+- **EntrSL relevance: 4/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
 - **Evidence quality: 4/5.** Based on design transparency, sample or review breadth, analytical fit, and inferential limits.
 - **Journal standing is separate.** OpenAlex two-year mean citedness and h-index are descriptive source metrics and do not increase this paper's evidence score.
 

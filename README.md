@@ -1,8 +1,8 @@
 # EntrLabs Research Library
 
-A private local Jekyll/GitHub Pages prototype connecting the Yes-Way proposition **“Strength to serve. Service to grow.”** with critically appraised research.
+A private local Jekyll/GitHub Pages prototype publishing critically appraised research behind EntrLabs frameworks, learning models, and practices.
 
-## Part of The Yes-Way
+## EntrSL Research Collection
 
 The EntrSL collection is the evidence foundation for entrepreneurship-focused service-learning. It combines direct EntrSL research with transferable evidence on reflection, reciprocity, community partnership, institutional design, and outcomes. It does not claim that every selected paper directly studies entrepreneurship.
 
@@ -26,4 +26,4 @@ The EntrSL collection is the evidence foundation for entrepreneurship-focused se
 
 ## Privacy status
 
-This website exists locally only. No GitHub repository was created, pushed, deployed, or published. Zotero remained read-only.
+Published by EntrLabs and curated by Joseph E. Iesue. The complete Zotero ledger, snapshots, and cached abstracts remain private.

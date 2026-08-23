@@ -35,7 +35,7 @@ Examines long-term civic engagement after mandatory academic service-learning.
 
 Graduates exposed to the reform were estimated to be 9.4% more likely to remain civically engaged, with larger effects among those without prior service.
 
-## NEXUS / EntrSL interpretation
+## EntrSL interpretation
 
 This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
 
@@ -45,7 +45,7 @@ Quasi-experimental rather than randomized; civic outcome and institutional conte
 
 ## Scoring rationale
 
-- **NEXUS relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
+- **EntrSL relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
 - **Evidence quality: 5/5.** Based on design transparency, sample or review breadth, analytical fit, and inferential limits.
 - **Journal standing is separate.** OpenAlex two-year mean citedness and h-index are descriptive source metrics and do not increase this paper's evidence score.
 

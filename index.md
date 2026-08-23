@@ -15,11 +15,12 @@ title: EntrSL Research Collection
     </div>
   </div>
   <aside class="hero__manifesto">
-    <span class="manifesto__number">02</span>
-    <p class="eyebrow">Yes to the Weight</p>
-    <blockquote>Strength to serve.<br>Service to grow.</blockquote>
-    <p>Purposeful service contributes to others while developing judgment, skill, relationships, and a clearer knowledge of self.</p>
-    <a href="{{ '/yes-way/' | relative_url }}">Place this evidence in the Yes-Way →</a>
+    <span class="manifesto__number">01</span>
+    <p class="eyebrow">First research collection</p>
+    <blockquote>EntrSL<br>Research Collection</blockquote>
+    <p>Curated scholarship for entrepreneurship-focused service-learning, including direct, transferable, critical, and foundational research.</p>
+    <p class="curator-line">Curated by <strong>Joseph E. Iesue</strong></p>
+    <a href="{{ '/methodology/' | relative_url }}">Review the methodology →</a>
   </aside>
 </section>
 
@@ -82,8 +83,8 @@ title: EntrSL Research Collection
 </section>
 
 <section class="closing-callout">
-  <p class="eyebrow">The Yes-Way research loop</p>
-  <h2>Carry the work.<br>Study what it teaches.<br>Improve the ground.</h2>
-  <p>The library turns “Service to grow” from an attractive proposition into a researchable practice, with boundaries, partner voice, reflection, and evidence built in.</p>
-  <a class="button button--light" href="{{ '/yes-way/' | relative_url }}">Read the framework</a>
+  <p class="eyebrow">EntrLabs research infrastructure</p>
+  <h2>Find the foundations.<br>Test the claims.<br>Name the limits.</h2>
+  <p>The EntrLabs Research Library connects frameworks and practices to direct findings, adjacent scholarship, critiques, and unanswered questions.</p>
+  <a class="button button--light" href="{{ '/methodology/' | relative_url }}">Review the method</a>
 </section>

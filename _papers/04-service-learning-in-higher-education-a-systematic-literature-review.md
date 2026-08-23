@@ -35,7 +35,7 @@ Maps higher-education service-learning research, outcomes, and implementation th
 
 The field reports academic, personal, social, and civic outcomes across diverse settings.
 
-## NEXUS / EntrSL interpretation
+## EntrSL interpretation
 
 This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
 
@@ -45,7 +45,7 @@ Quality appraisal is less explicit than the breadth of mapping; findings are not
 
 ## Scoring rationale
 
-- **NEXUS relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
+- **EntrSL relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
 - **Evidence quality: 4/5.** Based on design transparency, sample or review breadth, analytical fit, and inferential limits.
 - **Journal standing is separate.** OpenAlex two-year mean citedness and h-index are descriptive source metrics and do not increase this paper's evidence score.
 

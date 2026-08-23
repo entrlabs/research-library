@@ -35,7 +35,7 @@ Tracks general and teaching self-efficacy across two years of school service-lea
 
 Pre-post gains were reported for general self-efficacy (d=.30) and teaching self-efficacy (d=.68), with feedback-related patterns.
 
-## NEXUS / EntrSL interpretation
+## EntrSL interpretation
 
 This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
 
@@ -45,7 +45,7 @@ No randomized control; repeated measures do not isolate service-learning from co
 
 ## Scoring rationale
 
-- **NEXUS relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
+- **EntrSL relevance: 5/5.** Directness to service-learning, experiential learning, higher education, entrepreneurship, reflection, reciprocity, or institutional practice.
 - **Evidence quality: 4/5.** Based on design transparency, sample or review breadth, analytical fit, and inferential limits.
 - **Journal standing is separate.** OpenAlex two-year mean citedness and h-index are descriptive source metrics and do not increase this paper's evidence score.
 

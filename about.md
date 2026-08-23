@@ -10,4 +10,4 @@ The **EntrSL Research Collection** is the first curated collection within the **
 
 The library is broader than entrepreneurship service-learning alone. Direct EntrSL studies sit beside transferable evidence needed to design entrepreneurship-focused service responsibly. Twenty-three selected papers were reviewed from available full text; two are explicitly marked abstract-only.
 
-The prototype remains private and local. It has not been pushed, deployed, or published, and Zotero was not modified.
+The library is published by EntrLabs and curated by Joseph E. Iesue. Zotero was not modified during collection development.
