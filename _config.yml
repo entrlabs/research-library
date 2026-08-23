@@ -1,7 +1,7 @@
 title: EntrLabs Research Library
 description: Curated research foundations, findings, critiques, and open questions for EntrLabs frameworks, learning models, and practices.
-url: "https://entrlabs.github.io"
-baseurl: "/research-library"
+url: "https://library.entr.cc"
+baseurl: ""
 markdown: kramdown
 permalink: pretty
 collections:
