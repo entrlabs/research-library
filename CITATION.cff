@@ -1,17 +1,19 @@
 cff-version: 1.2.0
-title: "EntrLabs Research Library: EntrSL Collection"
-message: "Please cite this evidence library and the original papers used."
+title: "EntrLabs Research Library: EntrSL Research Collection"
+message: "Please cite this curated collection and the original papers used."
 type: dataset
 authors:
   - family-names: Iesue
-    given-names: Joseph
-version: 0.2.0
+    given-names: Joseph E.
+version: 0.3.0
 date-released: 2026-08-23
-abstract: "A census-backed, critically appraised evidence collection for entrepreneurship-focused service-learning within the EntrLabs Research Library."
+abstract: "A curated research collection for entrepreneurship-focused service-learning, including direct, transferable, foundational, critical, and contradictory scholarship."
 keywords:
   - service-learning
   - experiential learning
   - entrepreneurship education
   - EntrSL
-  - The Yes-Way
+  - research library
 license: CC-BY-4.0
+repository-code: "https://github.com/entrlabs/research-library"
+url: "https://library.entr.cc/"

@@ -1,13 +1,13 @@
 title: EntrLabs Research Library
-description: Curated research for frameworks, learning models, and practices developed by EntrLabs.
-url: ""
+description: Curated research foundations, findings, critiques, and open questions for EntrLabs frameworks, learning models, and practices.
+url: "https://library.entr.cc"
 baseurl: ""
 markdown: kramdown
 permalink: pretty
 collections:
   papers:
     output: true
-    permalink: /evidence/entrsl/papers/:name/
+    permalink: /entrsl/papers/:name/
 defaults:
   - scope:
       path: ""

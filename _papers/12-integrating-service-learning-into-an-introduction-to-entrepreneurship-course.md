@@ -19,7 +19,7 @@ full_text_reviewed: true
 journal_2yr_citedness: 2.23
 journal_h_index: 86
 journal_openalex: "https://openalex.org/S190363454"
-journal_rank_tier: "Other shortlisted source"
+journal_rank_tier: "Other source in collection"
 layout: paper
 ---
 ## Why this paper matters
@@ -37,7 +37,7 @@ The model emphasizes ambiguity management, entrepreneurial skills, and self-effi
 
 ## EntrSL interpretation
 
-This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
+This paper informs the design or evaluation of service-learning and experiential-learning work. Its findings should be interpreted within the reported design and context, not treated as universal or necessarily causal evidence.
 
 ## Limitations and boundary conditions
 

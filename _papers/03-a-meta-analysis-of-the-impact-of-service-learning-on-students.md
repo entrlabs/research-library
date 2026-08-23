@@ -19,7 +19,7 @@ full_text_reviewed: true
 journal_2yr_citedness: 1.18
 journal_h_index: 70
 journal_openalex: "https://openalex.org/S201876622"
-journal_rank_tier: "Other shortlisted source"
+journal_rank_tier: "Other source in collection"
 layout: paper
 ---
 ## Why this paper matters
@@ -37,7 +37,7 @@ Effects ranged roughly from .27 to .43; curriculum links, student voice, communi
 
 ## EntrSL interpretation
 
-This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
+This paper informs the design or evaluation of service-learning and experiential-learning work. Its findings should be interpreted within the reported design and context, not treated as universal or necessarily causal evidence.
 
 ## Limitations and boundary conditions
 

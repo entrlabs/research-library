@@ -19,7 +19,7 @@ full_text_reviewed: true
 journal_2yr_citedness: 7.69
 journal_h_index: 194
 journal_openalex: "https://openalex.org/S50631486"
-journal_rank_tier: "Top quartile in shortlist"
+journal_rank_tier: "Upper quartile within collection"
 layout: paper
 ---
 ## Why this paper matters
@@ -37,7 +37,7 @@ Identifies knowledge, skills, and reflective processes connecting service-learni
 
 ## EntrSL interpretation
 
-This paper is directly useful for designing or evaluating service-learning and experiential-learning work. Its contribution should be applied at the level supported by the study design, not treated as universal causal proof.
+This paper informs the design or evaluation of service-learning and experiential-learning work. Its findings should be interpreted within the reported design and context, not treated as universal or necessarily causal evidence.
 
 ## Limitations and boundary conditions
 

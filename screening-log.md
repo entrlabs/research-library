@@ -26,4 +26,4 @@ These remain useful but their analyses are deliberately narrower. They require r
 
 ## Selection changes after the census
 
-The library-wide pass replaced weaker or redundant records from the initial query-based prototype with stronger evidence on systematic review, institutionalization, community-partner value, curriculum reform, self-efficacy, prosocial identity, sustainability practice, and social entrepreneurial competence. No Zotero item, collection, attachment, tag, or metadata field was changed.
+The library-wide pass replaced weaker or redundant records from the initial query-based prototype with more directly relevant or methodologically informative records concerning evidence synthesis, institutionalization, community-partner value, curriculum reform, self-efficacy, prosocial identity, sustainability practice, and social entrepreneurial competence. No Zotero item, collection, attachment, tag, or metadata field was changed.

@@ -1,0 +1,12 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{{ '/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/methodology/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/screening-log/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/about/' | absolute_url }}</loc></url>
+  <url><loc>{{ '/contribute/' | absolute_url }}</loc></url>
+{% for paper in site.papers %}  <url><loc>{{ paper.url | absolute_url }}</loc></url>
+{% endfor %}</urlset>

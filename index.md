@@ -8,7 +8,7 @@ title: EntrSL Research Collection
     <p class="breadcrumb">EntrLabs <span>/</span> Research Library <span>/</span> EntrSL</p>
     <p class="eyebrow">The evidence beneath the Weight</p>
     <h1>Service is a classroom.<br><em>Build it like one.</em></h1>
-    <p class="hero__dek">A critically appraised library for entrepreneurship-focused service-learning, connecting what we ask people to carry with what the experience can teach.</p>
+    <p class="hero__dek">A curator-reviewed library for entrepreneurship-focused service-learning, connecting what we ask people to carry with what the experience can teach.</p>
     <div class="hero__actions">
       <a class="button button--primary" href="#library">Explore 25 papers</a>
       <a class="button button--quiet" href="{{ '/methodology/' | relative_url }}">See how they were chosen</a>
@@ -34,7 +34,7 @@ title: EntrSL Research Collection
 <section class="positioning">
   <div>
     <p class="eyebrow">What this is</p>
-    <h2>The evidence foundation for EntrSL.</h2>
+    <h2>A research foundation for EntrSL.</h2>
   </div>
   <div>
     <p>This collection is broader than entrepreneurship service-learning alone. It combines direct EntrSL studies with transferable evidence about reflection, reciprocity, community partnership, institutional design, and student outcomes.</p>
@@ -44,13 +44,13 @@ title: EntrSL Research Collection
 
 <section class="method-note">
   <div class="method-note__icon">Q</div>
-  <div><strong>Journal reputation is not paper quality.</strong><p>“Top journal” identifies the top quartile by OpenAlex two-year mean citedness among the 21 journals represented here. It is not an SJR/JCR quartile, is not field-normalized, and never changes an article’s evidence score.</p></div>
+  <div><strong>Journal context is not article quality.</strong><p>“Upper-quartile source” refers only to OpenAlex two-year mean citedness among the 21 journals represented here. It is collection-specific, not field-normalized, and never changes an article appraisal.</p></div>
   <a href="{{ '/methodology/' | relative_url }}">Methodology</a>
 </section>
 
 <section class="library" id="library">
   <header class="section-heading">
-    <div><p class="eyebrow">The curated shelf</p><h2>Twenty-five papers.<br>Five evidence domains.</h2></div>
+    <div><p class="eyebrow">The curated shelf</p><h2>Twenty-five papers.<br>Five research domains.</h2></div>
     <p>Ordered for use, not prestige: begin with synthesis, establish the theory, design the experience, protect reciprocity, then evaluate what changed.</p>
   </header>
 
@@ -60,7 +60,7 @@ title: EntrSL Research Collection
   <section class="library-section" id="{{ category | slugify }}">
     <header class="domain-heading">
       <span>0{{ forloop.index }}</span>
-      <div><p class="eyebrow">Evidence domain</p><h3>{{ category }}</h3></div>
+      <div><p class="eyebrow">Research domain</p><h3>{{ category }}</h3></div>
       <p>{{ papers | size }} papers</p>
     </header>
     <div class="paper-list">
@@ -72,9 +72,9 @@ title: EntrSL Research Collection
           <h4><a href="{{ paper.url | relative_url }}">{{ paper.title }}</a></h4>
           <p class="paper-row__authors">{{ paper.authors }} · {{ paper.year }}</p>
           <p>{{ paper.synthesis }}</p>
-          <div class="journal-line"><em>{{ paper.journal }}</em>{% if paper.journal_rank_tier == "Top quartile in shortlist" %}<span class="journal-rank">Top journal</span>{% endif %}</div>
+          <div class="journal-line"><em>{{ paper.journal }}</em>{% if paper.journal_rank_tier == "Upper quartile within collection" %}<span class="journal-rank">Upper-quartile source</span>{% endif %}</div>
         </div>
-        <div class="paper-row__score"><strong>{{ paper.total_score }}</strong><span>/ 10</span><small>article evidence</small><p>OpenAlex 2y {{ paper.journal_2yr_citedness }}<br>h-index {{ paper.journal_h_index }}</p></div>
+        <div class="paper-row__score"><strong>R {{ paper.relevance_score }}/5</strong><span>Q {{ paper.evidence_quality_score }}/5</span><small>curator appraisal</small><p>OpenAlex 2y {{ paper.journal_2yr_citedness }}<br>h-index {{ paper.journal_h_index }}</p></div>
       </article>
     {% endfor %}
     </div>

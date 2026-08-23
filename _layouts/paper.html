@@ -3,12 +3,12 @@ layout: default
 ---
 <article class="paper-detail">
   <header class="paper-detail__hero">
-    <a class="back-link" href="{{ '/#library' | relative_url }}">← EntrSL collection library</a>
-    <p class="breadcrumb">The Yes-Way <span>/</span> EntrSL <span>/</span> Paper {{ page.rank }}</p>
+    <a class="back-link" href="{{ '/#library' | relative_url }}">← EntrSL Research Collection</a>
+    <p class="breadcrumb">EntrLabs <span>/</span> Research Library <span>/</span> Paper {{ page.rank }}</p>
     <p class="eyebrow">{{ page.category }}</p>
     <h1>{{ page.title }}</h1>
     <p class="paper-detail__authors">{{ page.authors }} · {{ page.year }}</p>
-    <div class="paper-detail__source"><em>{{ page.journal }}</em>{% if page.journal_rank_tier == "Top quartile in shortlist" %}<span class="journal-rank">Top journal</span>{% endif %}</div>
+    <div class="paper-detail__source"><em>{{ page.journal }}</em>{% if page.journal_rank_tier == "Upper quartile within collection" %}<span class="journal-rank">Upper-quartile source</span>{% endif %}</div>
   </header>
   <div class="paper-detail__grid">
     <div class="paper-detail__content">
@@ -16,8 +16,8 @@ layout: default
       {{ content }}
     </div>
     <aside class="paper-detail__aside">
-      <div class="score-card"><p class="eyebrow">Article appraisal</p><div><strong>{{ page.total_score }}</strong><span>/ 10</span></div><dl><dt>EntrSL relevance</dt><dd>{{ page.relevance_score }}/5</dd><dt>Evidence quality</dt><dd>{{ page.evidence_quality_score }}/5</dd></dl></div>
-      <div class="source-card"><p class="eyebrow">Journal context</p><strong>{{ page.journal }}</strong><dl><dt>OpenAlex 2-year mean citedness</dt><dd>{{ page.journal_2yr_citedness }}</dd><dt>OpenAlex h-index</dt><dd>{{ page.journal_h_index }}</dd></dl><a href="{{ page.journal_openalex }}">OpenAlex source ↗</a><small>Descriptive source metrics only. They do not affect this paper’s evidence score.</small></div>
+      <div class="score-card"><p class="eyebrow">Curator appraisal</p><dl><dt>EntrSL relevance</dt><dd>{{ page.relevance_score }}/5</dd><dt>Evidence quality</dt><dd>{{ page.evidence_quality_score }}/5</dd></dl><small>Navigation aid only; not a validated certainty grade or design-specific risk-of-bias assessment.</small></div>
+      <div class="source-card"><p class="eyebrow">Journal context</p><strong>{{ page.journal }}</strong><dl><dt>OpenAlex 2-year mean citedness</dt><dd>{{ page.journal_2yr_citedness }}</dd><dt>OpenAlex h-index</dt><dd>{{ page.journal_h_index }}</dd></dl><a href="{{ page.journal_openalex }}">OpenAlex source ↗</a><small>Descriptive, non-field-normalized source metrics retrieved 23 August 2026. They do not affect this paper’s appraisal.</small></div>
     </aside>
   </div>
 </article>
