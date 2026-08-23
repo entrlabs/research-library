@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://library.entr.cc/sitemap.xml
+Sitemap: https://entrlabs.github.io/research-library/sitemap.xml
