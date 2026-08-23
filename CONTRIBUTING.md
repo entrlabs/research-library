@@ -1,7 +1,7 @@
 # Contributing to The Yes-Way Evidence Library
 
 1. Propose one paper or correction per issue or pull request.
-2. State whether it is direct EntrSL evidence, experiential entrepreneurship evidence, transferable service-learning evidence, or foundational/institutional evidence.
+2. State whether it is direct EntrSL collection, experiential entrepreneurship evidence, transferable service-learning evidence, or foundational/institutional evidence.
 3. Supply a complete citation, DOI, study design, sample/context, principal finding, and limitations.
 4. Distinguish full-text analysis from abstract-only screening.
 5. Do not infer paper quality from journal metrics.

@@ -1,4 +1,4 @@
-# EntrSL Evidence Library
+# EntrLabs Research Library
 
 A private local Jekyll/GitHub Pages prototype connecting the Yes-Way proposition **“Strength to serve. Service to grow.”** with critically appraised research.
 
@@ -10,7 +10,7 @@ The EntrSL collection is the evidence foundation for entrepreneurship-focused se
 
 ## Repository map
 
-- `index.md`: Yes-Way EntrSL evidence landing page and complete curated shelf.
+- `index.md`: Yes-Way EntrSL collection landing page and complete curated shelf.
 - `yes-way.md`: concise parent-philosophy orientation.
 - `methodology.md`: census, appraisal rubric, journal-metric boundary, and limitations.
 - `screening-log.md`: stage counts and missing-full-text decisions.

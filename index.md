@@ -1,11 +1,11 @@
 ---
 layout: default
-title: EntrSL Evidence
+title: EntrSL Research Collection
 ---
 
 <section class="hero">
   <div class="hero__copy">
-    <p class="breadcrumb">The Yes-Way <span>/</span> Evidence <span>/</span> EntrSL</p>
+    <p class="breadcrumb">EntrLabs <span>/</span> Research Library <span>/</span> EntrSL</p>
     <p class="eyebrow">The evidence beneath the Weight</p>
     <h1>Service is a classroom.<br><em>Build it like one.</em></h1>
     <p class="hero__dek">A critically appraised library for entrepreneurship-focused service-learning, connecting what we ask people to carry with what the experience can teach.</p>
