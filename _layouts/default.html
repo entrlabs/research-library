@@ -7,65 +7,35 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#153c2d">
+  <meta name="theme-color" content="#a33b24">
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ meta_description | escape }}">
   <link rel="canonical" href="{{ canonical_url }}">
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:type" content="{% if page.layout == 'paper' %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{{ meta_title | escape }}">
-  <meta property="og:description" content="{{ meta_description | escape }}">
-  <meta property="og:url" content="{{ canonical_url }}">
-  <meta property="og:image" content="{{ social_image }}">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="EntrLabs Research Library — EntrSL Research Collection">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ meta_title | escape }}">
-  <meta name="twitter:description" content="{{ meta_description | escape }}">
-  <meta name="twitter:image" content="{{ social_image }}">
-  <meta name="twitter:image:alt" content="EntrLabs Research Library — EntrSL Research Collection">
+  <meta property="og:site_name" content="{{ site.title }}"><meta property="og:type" content="{% if page.layout == 'paper' %}article{% else %}website{% endif %}"><meta property="og:title" content="{{ meta_title | escape }}"><meta property="og:description" content="{{ meta_description | escape }}"><meta property="og:url" content="{{ canonical_url }}"><meta property="og:image" content="{{ social_image }}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="EntrLabs Research Library — EntrSL Research Collection">
+  <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{{ meta_title | escape }}"><meta name="twitter:description" content="{{ meta_description | escape }}"><meta name="twitter:image" content="{{ social_image }}">
   <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "{% if page.layout == 'paper' %}Review{% else %}WebPage{% endif %}",
-    "name": {{ meta_title | jsonify }},
-    "description": {{ meta_description | jsonify }},
-    "url": {{ canonical_url | jsonify }},
-    "image": {{ social_image | jsonify }},
-    "publisher": {"@type":"Organization","name":"EntrLabs","url":"https://entr.cc/entrlabs"},
-    "author": {"@type":"Person","name":"Joseph E. Iesue","url":"https://josephiesue.com"}{% if page.layout == 'paper' %},
-    "itemReviewed": {
-      "@type": "ScholarlyArticle",
-      "name": {{ page.title | jsonify }},
-      "author": {{ page.authors | jsonify }},
-      "datePublished": {{ page.year | jsonify }},
-      "isPartOf": {"@type":"Periodical","name":{{ page.journal | jsonify }}},
-      "sameAs": {{ page.url | jsonify }}
-    }{% endif %}
-  }
-  </script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"{% if page.layout == 'paper' %}Review{% else %}WebPage{% endif %}","name":{{ meta_title | jsonify }},"description":{{ meta_description | jsonify }},"url":{{ canonical_url | jsonify }},"image":{{ social_image | jsonify }},"publisher":{"@type":"Organization","name":"EntrLabs","url":"https://entr.cc/entrlabs"},"author":{"@type":"Person","name":"Joseph E. Iesue","url":"https://josephiesue.com"}}</script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
-    <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="EntrLabs Research Library home">
-      <span class="wordmark__mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-      <span><b>EntrLabs</b><small>Research Library</small></span>
-    </a>
-    <nav aria-label="Primary navigation">
-      <a href="{{ '/#library' | relative_url }}">EntrSL collection</a>
+    <a class="wordmark" href="{{ '/' | relative_url }}"><b>ENTRLABS</b><span>Research Library</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <nav id="primary-nav" aria-label="Primary navigation">
+      <a class="active" href="{{ '/#library' | relative_url }}">Library</a>
       <a href="{{ '/methodology/' | relative_url }}">Methodology</a>
-      <a href="{{ '/screening-log/' | relative_url }}">Screening</a>
       <a href="{{ '/contribute/' | relative_url }}">Contribute</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
     </nav>
   </header>
   <main id="main">{{ content }}</main>
   <footer class="site-footer">
-    <div><p class="footer-kicker">EntrLabs Research Library</p><p>Research foundations, findings, critiques, and open questions.</p></div>
-    <div><p>Published by EntrLabs · Curated by Joseph E. Iesue</p><p class="fine-print">EntrSL collection reviewed 23 August 2026 · Zotero-derived research data retained privately</p></div>
+    <div><p class="section-label">Contribute</p><p>Suggest an article, report a concern, or propose a correction.</p><a href="{{ '/contribute/' | relative_url }}">Contribution process</a></div>
+    <div class="footer-brand"><p><b>ENTRLABS</b> Research Library</p><span>Curated research for frameworks, learning models, and practice.</span></div>
+    <div><a href="{{ '/about/' | relative_url }}">About the library</a><a href="{{ '/methodology/' | relative_url }}">Methodology</a><a href="{{ '/screening-log/' | relative_url }}">Screening log</a></div>
+    <div><p class="section-label">Collection</p><p>Published by EntrLabs<br>Curated by Joseph E. Iesue</p><a href="https://github.com/entrlabs/research-library">Source repository</a></div>
+    <p class="footer-legal">© 2026 EntrLabs Research Library <span>Built with Jekyll and GitHub Pages</span></p>
   </footer>
   <script src="{{ '/assets/js/library.js' | relative_url }}" defer></script>
 </body>
