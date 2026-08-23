@@ -44,7 +44,7 @@ title: EntrSL Research Collection
 
 <section class="method-note">
   <div class="method-note__icon">Q</div>
-  <div><strong>Journal context is not article quality.</strong><p>“Upper-quartile source” refers only to OpenAlex two-year mean citedness among the 21 journals represented here. It is collection-specific, not field-normalized, and never changes an article appraisal.</p></div>
+  <div><strong>Journal context is not article quality.</strong><p>Journal metrics are provided for context only. An “upper-quartile source” falls within the highest quarter of OpenAlex two-year mean citedness values among journals represented in this collection. Because citation patterns vary by field, the label is not a general journal ranking and does not influence any article appraisal.</p></div>
   <a href="{{ '/methodology/' | relative_url }}">Methodology</a>
 </section>
 

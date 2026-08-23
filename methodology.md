@@ -38,7 +38,7 @@ Journal-level context is reported separately from article appraisal using OpenAl
 - **h-index:** OpenAlex’s cumulative source-level h-index.
 - **Upper-quartile source within this collection:** at or above the 75th percentile of two-year mean citedness among the 21 journals represented by the 25 selected papers (threshold 7.007619).
 
-This collection-specific label is not an SJR or Journal Citation Reports quartile, is not field-normalized, and should not be interpreted as a general journal ranking. Journal metrics never increase an individual paper’s relevance or evidence-quality appraisal.
+This collection-specific indicator is provided for context only. Because citation practices vary across fields, it should not be interpreted as a general journal ranking or as a judgment of an individual article. It does not influence either appraisal dimension.
 
 ## Interpretive limitations
 

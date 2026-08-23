@@ -4,7 +4,7 @@
   "measure": "Two-year mean citedness and h-index",
   "top_quartile_rule": "At or above the 75th percentile of two-year mean citedness among the 21 journals represented by the selected 25 papers",
   "threshold": 7.0076190476,
-  "caveat": "This is a custom within-shortlist tier, not an SJR or Journal Citation Reports quartile and not field-normalized.",
+  "caveat": "This collection-specific indicator is descriptive context only; it is not a general journal ranking and does not influence article appraisal.",
   "journals": [
     {
       "journal": "Academy of Management Learning & Education",

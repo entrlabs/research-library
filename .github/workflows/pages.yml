@@ -16,6 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Guard forward-facing language
+        shell: bash
+        run: |
+          if grep -REni --include="*.md" --include="*.html" --include="*.json" --include="*.xml" --include="*.cff" "(^|[^[:alnum:]_])AI([^[:alnum:]_]|20 20 12 61 79 80 81 98 702 701 33 100 204 250 395 398 399 400|artificial intelligence|AI-assisted|generative AI|large language model" . --exclude-dir=.git --exclude-dir=.github; then
+            echo "Disallowed forward-facing language found." >&2
+            exit 1
+          fi
       - uses: actions/jekyll-build-pages@v1
         with:
           source: ./
