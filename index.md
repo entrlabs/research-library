@@ -16,7 +16,7 @@ description: A curated research collection on service-learning and experiential 
     </div>
   </div>
   <div class="library-hero__art">
-    <img src="{{ '/assets/images/library-hero.png' | relative_url }}" alt="An archival botanical illustration growing from an open book">
+    <img src="{{ '/assets/images/library-hero-accent.png' | relative_url }}" alt="An archival botanical illustration growing from an open book">
     <p>Research for learning,<br>service, and community</p>
   </div>
 </section>
@@ -28,12 +28,20 @@ description: A curated research collection on service-learning and experiential 
 </section>
 
 <section class="domain-nav" aria-label="Research domains">
-  <img class="domain-icons" src="{{ '/assets/images/category-icons.png' | relative_url }}" alt="Five research-domain symbols">
   {% assign domain_order = "Foundations & Theory|Reviews & Meta-Analyses|Design & Reflection|Reciprocity & Justice|Outcomes & Institutional Practice" | split: "|" %}
   <div class="domain-grid">
   {% for category in domain_order %}
     {% assign category_papers = site.papers | where: "category", category %}
-    <a href="#{{ category | slugify }}"><strong>{{ category }}</strong><span>{{ category_papers | size }} studies</span></a>
+    <a href="#{{ category | slugify }}">
+      {% case forloop.index0 %}
+      {% when 0 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 6 L16 24 M6 8 L16 6 L26 8 L26 22 L16 24 L6 22 Z" stroke-linejoin="round" stroke-linecap="round"/><path d="M9 12 L13 12 M9 16 L13 16 M9 20 L13 20 M19 12 L23 12 M19 16 L23 16 M19 20 L23 20" stroke-linecap="round"/></svg>
+      {% when 1 %}<svg viewBox="0 0 32 32" aria-hidden="true"><rect x="7" y="5" width="14" height="17" rx="1"/><path d="M11 10 L17 10 M11 14 L17 14" stroke-linecap="round"/><circle cx="20" cy="21" r="4.2"/><path d="M23.2 24.2 L27 28" stroke-linecap="round"/></svg>
+      {% when 2 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M8 26 L8 21.5 L20.5 9 A2 2 0 0 1 23.5 9 L23.5 9 A2 2 0 0 1 23.5 12 L11 24.5 Z" stroke-linejoin="round" stroke-linecap="round"/><path d="M8 26 L12 25" stroke-linecap="round"/><path d="M18.5 11 L21.5 14" stroke-linecap="round"/></svg>
+      {% when 3 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 4 L16 24 M9 24 L23 24" stroke-linecap="round"/><path d="M16 8 L6 8 L6 8 A5 6 0 0 0 16 8 Z" stroke-linejoin="round"/><path d="M16 8 L26 8 L26 8 A5 6 0 0 1 16 8 Z" stroke-linejoin="round"/><circle cx="16" cy="5" r="1.4"/></svg>
+      {% else %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M6 26 L26 26 M6 12 L16 5 L26 12 M8 12 L8 26 M24 12 L24 26 M13 12 L13 26 M19 12 L19 26" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      {% endcase %}
+      <strong>{{ category }}</strong><span>{{ category_papers | size }} studies</span>
+    </a>
   {% endfor %}
   </div>
 </section>
@@ -73,7 +81,7 @@ description: A curated research collection on service-learning and experiential 
 </section>
 
 <section class="method-panel">
-  <div class="method-panel__art"><img src="{{ '/assets/images/methodology-compass.png' | relative_url }}" alt="An archival compass illustration"></div>
+  <div class="method-panel__art"><img src="{{ '/assets/images/methodology-compass-accent.png' | relative_url }}" alt="An archival compass illustration"></div>
   <div class="method-panel__content">
     <p class="section-label">Methodology</p>
     <h2>Transparent selection. Bounded appraisal. Ongoing review.</h2>
