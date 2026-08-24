@@ -14,9 +14,6 @@
   <meta property="og:site_name" content="{{ site.title }}"><meta property="og:type" content="{% if page.layout == 'paper' %}article{% else %}website{% endif %}"><meta property="og:title" content="{{ meta_title | escape }}"><meta property="og:description" content="{{ meta_description | escape }}"><meta property="og:url" content="{{ canonical_url }}"><meta property="og:image" content="{{ social_image }}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="EntrLabs Research Library — EntrSL Research Collection">
   <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{{ meta_title | escape }}"><meta name="twitter:description" content="{{ meta_description | escape }}"><meta name="twitter:image" content="{{ social_image }}">
   <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800&family=Spectral:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Archivo:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"{% if page.layout == 'paper' %}Review{% else %}WebPage{% endif %}","name":{{ meta_title | jsonify }},"description":{{ meta_description | jsonify }},"url":{{ canonical_url | jsonify }},"image":{{ social_image | jsonify }},"publisher":{"@type":"Organization","name":"EntrLabs","url":"https://entr.cc/entrlabs"},"author":{"@type":"Person","name":"Joseph E. Iesue","url":"https://josephiesue.com"}}</script>
 </head>
