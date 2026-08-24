@@ -26,7 +26,8 @@
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
     <nav id="primary-nav" aria-label="Primary navigation">
-      <a class="active" href="{{ '/#library' | relative_url }}">Library</a>
+      <a{% if page.nav == 'library' %} class="active"{% endif %} href="{{ '/' | relative_url }}">Library</a>
+      <a{% if page.nav == 'collections' %} class="active"{% endif %} href="{{ '/collections/' | relative_url }}">Collections</a>
       <a href="{{ '/methodology/' | relative_url }}">Methodology</a>
       <a href="{{ '/contribute/' | relative_url }}">Contribute</a>
       <a href="{{ '/about/' | relative_url }}">About</a>
@@ -45,7 +46,7 @@
       <p>Research Library</p>
       <span>Curated research foundations, findings, critiques, and open questions for EntrLabs frameworks, learning models, and practices.</span>
     </div>
-    <div><p class="section-label">Library</p><a href="{{ '/about/' | relative_url }}">About the library</a><a href="{{ '/methodology/' | relative_url }}">Methodology</a><a href="{{ '/screening-log/' | relative_url }}">Screening log</a><a href="{{ '/contribute/' | relative_url }}">Contribute</a></div>
+    <div><p class="section-label">Library</p><a href="{{ '/collections/' | relative_url }}">Research collections</a><a href="{{ '/about/' | relative_url }}">About the library</a><a href="{{ '/methodology/' | relative_url }}">Methodology</a><a href="{{ '/screening-log/' | relative_url }}">Screening log</a><a href="{{ '/contribute/' | relative_url }}">Contribute</a></div>
     <div><p class="section-label">Ecosystem</p><a href="https://entr.cc">ENTR</a><a href="https://entr.cc/entrlabs">EntrLabs</a><a href="https://letters.entr.cc">The Lead Letter</a><a href="https://entr.cc/join">Join EntrLabs</a></div>
     <div><p class="section-label">Collection</p><p>Published by EntrLabs<br>Curated by Joseph E. Iesue</p><a href="https://github.com/entrlabs/research-library">Source repository</a></div>
     <p class="footer-legal">© 2026 EntrLabs Research Library <span>Built by ENTR</span></p>

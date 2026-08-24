@@ -1,96 +1,97 @@
 ---
 layout: default
-title: EntrSL Research Collection
-description: A curated research collection on service-learning and experiential learning, with relevance to entrepreneurship education.
+title: EntrLabs Research Library
+description: Curated research foundations for EntrLabs frameworks, learning models, and practices.
+nav: library
 ---
 
-<section class="library-hero">
-  <div class="library-hero__copy">
-    <p class="kicker">EntrSL Research Collection</p>
-    <h1>Essential research for learning through experience and service</h1>
-    <span class="rust-rule" aria-hidden="true"></span>
-    <p class="hero-dek">A curated research collection on service-learning and experiential learning, with relevance to entrepreneurship education.</p>
+<section class="library-home-hero">
+  <div class="library-home-hero__copy">
+    <p class="kicker">EntrLabs Research Library</p>
+    <h1>Research foundations for ideas built to matter</h1>
+    <p class="home-hero-dek">A living scholarly library connecting EntrLabs frameworks to the research that supports, challenges, and extends them.</p>
     <div class="hero-actions">
-      <a class="button button--rust" href="#library">Explore the library</a>
-      <a class="text-link" href="{{ '/methodology/' | relative_url }}">Read the methodology</a>
+      <a class="button button--rust" href="{{ '/collections/' | relative_url }}">Explore collections</a>
+      <a class="text-link" href="{{ '/methodology/' | relative_url }}">How the library works</a>
     </div>
+    <p class="home-curator">Published by EntrLabs <span>Curated by Joseph E. Iesue</span></p>
   </div>
-  <div class="library-hero__art">
-    <img src="{{ '/assets/images/library-hero-accent.png' | relative_url }}" alt="An archival botanical illustration growing from an open book">
-    <p>Research for learning,<br>service, and community</p>
-  </div>
-</section>
-
-<section class="scope-band" aria-labelledby="scope-heading">
-  <p class="section-label" id="scope-heading">Scope</p>
-  <p>EntrLabs curates and appraises peer-reviewed research across service-learning, experiential learning, and adjacent fields. Each paper is reviewed for methodological quality, relevance to EntrSL, and practical or conceptual contribution.</p>
-  <span class="scope-mark">25</span>
-</section>
-
-<section class="domain-nav" aria-label="Research domains">
-  {% assign domain_order = "Foundations & Theory|Reviews & Meta-Analyses|Design & Reflection|Reciprocity & Justice|Outcomes & Institutional Practice" | split: "|" %}
-  <div class="domain-grid">
-  {% for category in domain_order %}
-    {% assign category_papers = site.papers | where: "category", category %}
-    <a href="#{{ category | slugify }}">
-      {% case forloop.index0 %}
-      {% when 0 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 6 L16 24 M6 8 L16 6 L26 8 L26 22 L16 24 L6 22 Z" stroke-linejoin="round" stroke-linecap="round"/><path d="M9 12 L13 12 M9 16 L13 16 M9 20 L13 20 M19 12 L23 12 M19 16 L23 16 M19 20 L23 20" stroke-linecap="round"/></svg>
-      {% when 1 %}<svg viewBox="0 0 32 32" aria-hidden="true"><rect x="7" y="5" width="14" height="17" rx="1"/><path d="M11 10 L17 10 M11 14 L17 14" stroke-linecap="round"/><circle cx="20" cy="21" r="4.2"/><path d="M23.2 24.2 L27 28" stroke-linecap="round"/></svg>
-      {% when 2 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M8 26 L8 21.5 L20.5 9 A2 2 0 0 1 23.5 9 L23.5 9 A2 2 0 0 1 23.5 12 L11 24.5 Z" stroke-linejoin="round" stroke-linecap="round"/><path d="M8 26 L12 25" stroke-linecap="round"/><path d="M18.5 11 L21.5 14" stroke-linecap="round"/></svg>
-      {% when 3 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 4 L16 24 M9 24 L23 24" stroke-linecap="round"/><path d="M16 8 L6 8 L6 8 A5 6 0 0 0 16 8 Z" stroke-linejoin="round"/><path d="M16 8 L26 8 L26 8 A5 6 0 0 1 16 8 Z" stroke-linejoin="round"/><circle cx="16" cy="5" r="1.4"/></svg>
-      {% else %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M6 26 L26 26 M6 12 L16 5 L26 12 M8 12 L8 26 M24 12 L24 26 M13 12 L13 26 M19 12 L19 26" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      {% endcase %}
-      <strong>{{ category }}</strong><span>{{ category_papers | size }} studies</span>
-    </a>
-  {% endfor %}
+  <div class="library-home-hero__visual">
+    <img src="{{ '/assets/images/library-constellation.png' | relative_url }}" alt="An open scholarly folio connecting research, frameworks, community, and learning">
   </div>
 </section>
 
-<section class="article-library" id="library">
-  <header class="article-library__header">
-    <div><p class="kicker">Curated scholarship</p><h2>25 reviewed articles</h2></div>
-    <label class="sort-control">Sort by
-      <select id="paper-sort">
-        <option value="rank">Curator order</option>
-        <option value="year-desc">Publication year (newest)</option>
-        <option value="year-asc">Publication year (oldest)</option>
-        <option value="title">Article title</option>
-      </select>
-    </label>
+<section class="library-ledger" aria-label="Library overview">
+  <div><strong>01</strong><span>Active research collection</span></div>
+  <div><strong>25</strong><span>Curated journal articles</span></div>
+  <div><strong>05</strong><span>Research domains</span></div>
+  <div><strong>Living</strong><span>Versioned and revisable</span></div>
+</section>
+
+<section class="home-statement">
+  <p class="section-label">The library</p>
+  <div>
+    <h2>One scholarly home.<br>Many frameworks.</h2>
+    <p>Each collection examines a distinct EntrLabs framework through a transparent body of research. Shared methods make collections comparable; collection-specific scope keeps each review intellectually honest.</p>
+  </div>
+</section>
+
+<section class="featured-collection" aria-labelledby="featured-collection-title">
+  <div class="featured-collection__content">
+    <p class="section-label">Inaugural collection</p>
+    <p class="collection-code">Collection 01 / Active</p>
+    <h2 id="featured-collection-title">EntrSL Research Collection</h2>
+    <p>Research on service-learning and experiential learning, appraised for its relevance to entrepreneurship education, reciprocal community engagement, and reflective practice.</p>
+    <dl class="collection-metrics">
+      <div><dt>Articles</dt><dd>25</dd></div>
+      <div><dt>Domains</dt><dd>5</dd></div>
+      <div><dt>Source census</dt><dd>9,924</dd></div>
+    </dl>
+    <a class="button button--rust" href="{{ '/collections/entrsl/' | relative_url }}">Enter the EntrSL collection</a>
+  </div>
+  <div class="featured-collection__art">
+    <img src="{{ '/assets/images/library-hero-accent.png' | relative_url }}" alt="The EntrSL collection represented by an archival open book and growing botanical form">
+  </div>
+</section>
+
+<section class="research-map-section" aria-labelledby="research-map-title">
+  <header>
+    <div>
+      <p class="section-label">Library map</p>
+      <h2 id="research-map-title">Twenty-five papers. Five domains. One connected field.</h2>
+    </div>
+    <p>Every point represents one paper in the EntrSL collection. Select a domain to see how the current literature is distributed.</p>
   </header>
-  <div class="paper-table-wrap">
-    <table class="paper-table">
-      <thead><tr><th>#</th><th>Article</th><th>Authors / year</th><th>Appraisal</th><th>Study type</th><th>EntrSL relevance</th><th>DOI</th></tr></thead>
-      <tbody id="paper-table-body">
-      {% assign papers = site.papers | sort: "rank" %}
-      {% for paper in papers %}
-        <tr class="paper-record{% if forloop.index > 5 %} paper-record--extra{% endif %}" data-rank="{{ paper.rank }}" data-year="{{ paper.year }}" data-title="{{ paper.title | downcase | escape }}" data-category="{{ paper.category | slugify }}">
-          <td class="paper-number">{{ paper.rank | prepend: '0' | slice: -2, 2 }}</td>
-          <td><a class="paper-title" href="{{ paper.url | relative_url }}">{{ paper.title }}</a></td>
-          <td><span class="paper-authors">{{ paper.authors }}</span><span class="paper-year">{{ paper.year }}</span></td>
-          <td><strong class="appraisal-score">Quality {{ paper.evidence_quality_score }}/5</strong><span>Relevance {{ paper.relevance_score }}/5</span></td>
-          <td>{{ paper.study_design }}</td>
-          <td>{{ paper.synthesis }}</td>
-          <td>{% if paper.doi != "" %}<a class="doi-link" href="https://doi.org/{{ paper.doi }}">{{ paper.doi }}</a>{% else %}<span>Not recorded</span>{% endif %}</td>
-        </tr>
-      {% endfor %}
-      </tbody>
-    </table>
+  <div class="research-map-shell">
+    <canvas id="library-map" role="img" aria-label="Twenty-five papers grouped across five EntrSL research domains"></canvas>
+    <div class="research-map-tooltip" id="library-map-tooltip" aria-hidden="true"></div>
   </div>
-  <button class="view-all" id="view-all-papers" type="button" aria-expanded="false">View all 25 articles</button>
+  <ul class="research-map-key" aria-label="Research domain counts">
+    <li data-map-domain="0"><span>Foundations &amp; Theory</span><strong>5</strong></li>
+    <li data-map-domain="1"><span>Reviews &amp; Meta-Analyses</span><strong>4</strong></li>
+    <li data-map-domain="2"><span>Design &amp; Reflection</span><strong>5</strong></li>
+    <li data-map-domain="3"><span>Reciprocity &amp; Justice</span><strong>5</strong></li>
+    <li data-map-domain="4"><span>Outcomes &amp; Institutional Practice</span><strong>6</strong></li>
+  </ul>
 </section>
 
-<section class="method-panel">
-  <div class="method-panel__art"><img src="{{ '/assets/images/methodology-compass-accent.png' | relative_url }}" alt="An archival compass illustration"></div>
-  <div class="method-panel__content">
-    <p class="section-label">Methodology</p>
-    <h2>Transparent selection. Bounded appraisal. Ongoing review.</h2>
-    <div class="method-steps">
-      <div><strong>1. Identification</strong><p>A census of 9,924 journal articles held in the curator’s Zotero library.</p></div>
-      <div><strong>2. Screening</strong><p>Automated title-and-abstract screening created direct and near-scope candidate pools.</p></div>
-      <div><strong>3. Curator appraisal</strong><p>Separate judgments of EntrSL relevance and evidence quality, with limitations recorded.</p></div>
-      <div><strong>4. Inclusion and update</strong><p>Editorial inclusion decisions are revisable when corrections or stronger research emerge.</p></div>
-    </div>
-    <a class="text-link" href="{{ '/methodology/' | relative_url }}">Read the full methodology</a>
+<section class="library-principles" aria-labelledby="principles-title">
+  <header>
+    <p class="section-label">Editorial standard</p>
+    <h2 id="principles-title">Built for scrutiny, not certainty theatre.</h2>
+  </header>
+  <div class="principle-grid">
+    <article><span>01</span><h3>Transparent</h3><p>Scope, screening, appraisal, limitations, and updates are documented for scholarly inspection.</p></article>
+    <article><span>02</span><h3>Bounded</h3><p>Each collection states what it can support, what remains uncertain, and where curator judgment enters.</p></article>
+    <article><span>03</span><h3>Living</h3><p>Collections are versioned resources that can change when corrections or stronger research emerge.</p></article>
   </div>
+</section>
+
+<section class="collection-programme">
+  <div>
+    <p class="section-label">Collection programme</p>
+    <h2>Designed to grow without diluting the standard.</h2>
+  </div>
+  <p>Additional EntrLabs framework collections will be released only when their scope, source base, appraisal method, and limitations are ready for public examination.</p>
+  <a class="text-link" href="{{ '/collections/' | relative_url }}">View all collections</a>
 </section>
