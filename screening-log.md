@@ -22,8 +22,8 @@ permalink: /screening-log/
 - Bringle and Hatcher, “Implementing Service Learning in Higher Education” (`95IXXXC4`).
 - “Community Partners' Experiences of Higher Education Service-Learning in a Community Engagement Module” (`GZR4UGG4`).
 
-These remain useful but their analyses are deliberately narrower. They require researcher review before any stronger methodological or findings claim.
+These records remain relevant to the collection, but their analyses are necessarily narrower. Full-text review is required before making stronger claims about their methods or findings.
 
-## Selection changes after the census
+## Shortlist refinement
 
-The library-wide pass replaced weaker or redundant records from the initial query-based prototype with more directly relevant or methodologically informative records concerning evidence synthesis, institutionalization, community-partner value, curriculum reform, self-efficacy, prosocial identity, sustainability practice, and social entrepreneurial competence. No Zotero item, collection, attachment, tag, or metadata field was changed.
+Following full-corpus screening, the preliminary shortlist was refined to reduce redundancy and strengthen its relevance and methodological range. The final collection gives greater attention to evidence synthesis, institutionalization, community-partner perspectives, curriculum reform, self-efficacy, prosocial identity, sustainability practice, and social entrepreneurial competence.
