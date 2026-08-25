@@ -16,12 +16,16 @@
   <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="stylesheet" href="{{ '/assets/fonts/fonts.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  {% if page.nav == 'library' %}
+  {% if page.collection_style == 'entrsl' %}<link rel="stylesheet" href="{{ '/assets/css/entrsl.css' | relative_url }}">{% endif %}
+  {% if page.nav == 'library' or page.collection_style == 'entrsl' %}
   <script type="importmap">
   {"imports":{"three":"https://unpkg.com/three@0.184.0/build/three.module.js","three/addons/controls/OrbitControls.js":"https://unpkg.com/three@0.184.0/examples/jsm/controls/OrbitControls.js"}}
   </script>
+  {% endif %}
+  {% if page.nav == 'library' %}
   <script type="module" src="{{ '/assets/js/library-map-3d.js' | relative_url }}"></script>
   {% endif %}
+  {% if page.collection_style == 'entrsl' %}<script type="module" src="{{ '/assets/js/hero-diamond-3d.js' | relative_url }}"></script>{% endif %}
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"{% if page.layout == 'paper' %}Review{% else %}WebPage{% endif %}","name":{{ meta_title | jsonify }},"description":{{ meta_description | jsonify }},"url":{{ canonical_url | jsonify }},"image":{{ social_image | jsonify }},"publisher":{"@type":"Organization","name":"EntrLabs","url":"https://entr.cc/entrlabs"},"author":{"@type":"Person","name":"Joseph E. Iesue","url":"https://josephiesue.com"}}</script>
 </head>
 <body>

@@ -3,9 +3,13 @@ layout: default
 title: EntrSL Research Collection
 description: A curated research collection on service-learning and experiential learning, with relevance to entrepreneurship education.
 nav: collections
+collection_style: entrsl
 ---
 
+<a class="back-link collection-crumb" href="{{ '/' | relative_url }}">← EntrLabs Research Library</a>
+
 <section class="library-hero">
+  <div class="library-hero__field" aria-hidden="true"></div>
   <div class="library-hero__copy">
     <p class="kicker">EntrSL Research Collection</p>
     <h1>Essential research for learning through experience and service</h1>
@@ -17,7 +21,7 @@ nav: collections
     </div>
   </div>
   <div class="library-hero__art">
-    <img src="{{ '/assets/images/library-hero-accent.png' | relative_url }}" alt="An archival botanical illustration growing from an open book">
+    <div class="hero-diamond" id="hero-diamond-canvas" aria-label="Interactive EntrSL collection diamond"></div>
     <p>Research for learning,<br>service, and community</p>
   </div>
 </section>
@@ -33,7 +37,7 @@ nav: collections
   <div class="domain-grid">
   {% for category in domain_order %}
     {% assign category_papers = site.papers | where: "category", category %}
-    <a id="{{ category | slugify }}" href="#library">
+    <a class="reveal" id="{{ category | slugify }}" href="#library">
       {% case forloop.index0 %}
       {% when 0 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 6 L16 24 M6 8 L16 6 L26 8 L26 22 L16 24 L6 22 Z" stroke-linejoin="round" stroke-linecap="round"/><path d="M9 12 L13 12 M9 16 L13 16 M9 20 L13 20 M19 12 L23 12 M19 16 L23 16 M19 20 L23 20" stroke-linecap="round"/></svg>
       {% when 1 %}<svg viewBox="0 0 32 32" aria-hidden="true"><rect x="7" y="5" width="14" height="17" rx="1"/><path d="M11 10 L17 10 M11 14 L17 14" stroke-linecap="round"/><circle cx="20" cy="21" r="4.2"/><path d="M23.2 24.2 L27 28" stroke-linecap="round"/></svg>
@@ -48,7 +52,7 @@ nav: collections
 </section>
 
 <section class="article-library" id="library">
-  <header class="article-library__header">
+  <header class="article-library__header reveal">
     <div><p class="kicker">Curated scholarship</p><h2>25 reviewed articles</h2></div>
     <label class="sort-control">Sort by
       <select id="paper-sort">
@@ -81,8 +85,8 @@ nav: collections
   <button class="view-all" id="view-all-papers" type="button" aria-expanded="false">View all 25 articles</button>
 </section>
 
-<section class="method-panel">
-  <div class="method-panel__art"><img src="{{ '/assets/images/methodology-compass-accent.png' | relative_url }}" alt="An archival compass illustration"></div>
+<section class="method-panel reveal">
+  <div class="method-panel__art"><img src="{{ '/assets/images/entrsl-methodology-compass-accent.png' | relative_url }}" alt="An archival compass illustration"></div>
   <div class="method-panel__content">
     <p class="section-label">Methodology</p>
     <h2>Transparent selection. Bounded appraisal. Ongoing review.</h2>
