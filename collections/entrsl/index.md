@@ -33,7 +33,7 @@ nav: collections
   <div class="domain-grid">
   {% for category in domain_order %}
     {% assign category_papers = site.papers | where: "category", category %}
-    <a href="#{{ category | slugify }}">
+    <a id="{{ category | slugify }}" href="#library">
       {% case forloop.index0 %}
       {% when 0 %}<svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 6 L16 24 M6 8 L16 6 L26 8 L26 22 L16 24 L6 22 Z" stroke-linejoin="round" stroke-linecap="round"/><path d="M9 12 L13 12 M9 16 L13 16 M9 20 L13 20 M19 12 L23 12 M19 16 L23 16 M19 20 L23 20" stroke-linecap="round"/></svg>
       {% when 1 %}<svg viewBox="0 0 32 32" aria-hidden="true"><rect x="7" y="5" width="14" height="17" rx="1"/><path d="M11 10 L17 10 M11 14 L17 14" stroke-linecap="round"/><circle cx="20" cy="21" r="4.2"/><path d="M23.2 24.2 L27 28" stroke-linecap="round"/></svg>
