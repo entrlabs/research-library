@@ -78,13 +78,13 @@ document.addEventListener('DOMContentLoaded', () => {
       });
       ctx.beginPath();
       ctx.arc(center.x, center.y, 21, 0, Math.PI * 2);
-      ctx.fillStyle = '#0A0F1C';
+      ctx.fillStyle = '#131C32';
       ctx.fill();
       ctx.strokeStyle = '#5B8CFF';
       ctx.lineWidth = 2;
       ctx.stroke();
-      ctx.fillStyle = '#F4F6FB';
-      ctx.font = '600 11px "Avenir Next", sans-serif';
+      ctx.fillStyle = '#EEF1FB';
+      ctx.font = '600 11px "Archivo", sans-serif';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.fillText('EntrSL', center.x, center.y);

@@ -87,11 +87,16 @@ nav: library
   </div>
 </section>
 
-<section class="collection-programme">
-  <div>
+<section class="coming-next" aria-labelledby="coming-next-title">
+  <header>
     <p class="section-label">Collection programme</p>
-    <h2>Designed to grow without diluting the standard.</h2>
+    <h2 id="coming-next-title">Designed to grow without diluting the standard.</h2>
+    <p>Additional EntrLabs framework collections join only once their scope, source base, appraisal method, and limitations are ready for public examination.</p>
+  </header>
+  <div class="coming-next-grid">
+    <div class="coming-card"><span class="roman">II</span><h3>Service Leadership</h3><p>Research foundations for the deliberate practice of designing conditions where contribution becomes natural.</p><span class="tag">In development</span></div>
+    <div class="coming-card"><span class="roman">III</span><h3>String Leadership Theory</h3><p>Research underpinning EntrLabs&rsquo; model of distributed, tension-held leadership.</p><span class="tag">In development</span></div>
+    <div class="coming-card"><span class="roman">IV</span><h3>AIRe Framework</h3><p>Research supporting the AIRe framework for applied institutional practice.</p><span class="tag">In development</span></div>
   </div>
-  <p>Additional EntrLabs framework collections will be released only when their scope, source base, appraisal method, and limitations are ready for public examination.</p>
-  <a class="text-link" href="{{ '/collections/' | relative_url }}">View all collections</a>
+  <p class="coming-next-note">Curating a collection for a topic that belongs here? <a href="{{ '/contribute/' | relative_url }}">Propose it</a> &middot; <a href="{{ '/collections/' | relative_url }}">View all collections</a></p>
 </section>
