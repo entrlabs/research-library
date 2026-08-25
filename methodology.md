@@ -30,15 +30,9 @@ The final 25 were selected for direct relevance, methodological informativeness,
 
 The dimensions are displayed separately. They are not a meta-analytic effect, certainty grade, risk-of-bias judgment, or claim that unlike methods are interchangeable. Full text was reviewed for **23 papers**. Two records remain abstract/metadata-only and are explicitly flagged.
 
-## Journal context
+## Source context
 
-Journal-level context is reported separately from article appraisal using OpenAlex Sources data retrieved on 23 August 2026:
-
-- **Two-year mean citedness:** OpenAlex’s recent source-level mean citation measure.
-- **h-index:** OpenAlex’s cumulative source-level h-index.
-- **Upper-quartile source within this collection:** at or above the 75th percentile of two-year mean citedness among the 21 journals represented by the 25 selected papers (threshold 7.007619).
-
-This collection-specific indicator is provided for context only. Because citation practices vary across fields, it should not be interpreted as a general journal ranking or as a judgment of an individual article. It does not influence either appraisal dimension.
+Journal venue does not influence either appraisal dimension. Each article is assessed on its relevance, methodological contribution, evidentiary limits, and usefulness to the collection rather than on the reputation or citation profile of its publication venue.
 
 ## Interpretive limitations
 
@@ -46,7 +40,6 @@ This collection-specific indicator is provided for context only. Because citatio
 - Automated screening may miss relevant papers, particularly records without abstracts or using different terminology.
 - A single curator made inclusion and appraisal decisions; no inter-rater reliability estimate is available.
 - The rubric is purpose-built and unvalidated, and no uniform risk-of-bias instrument was applied across heterogeneous designs.
-- Citation-based journal indicators differ by discipline, publication age, and database coverage.
 - The collection intentionally combines direct EntrSL research with transferable service-learning and experiential-learning scholarship; those categories should not be conflated.
 - The 25-paper limit is editorial, not a claim that these are the definitive or universally strongest papers in the field.
 
