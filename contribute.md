@@ -9,6 +9,16 @@ description: Propose additions, corrections, replications, critiques, or missing
 
 The EntrLabs Research Library accepts proposed additions, corrections, replications, critiques, and stronger full-text sources for the EntrSL Research Collection.
 
+## Contact
+
+### Joseph E. Iesue, Curator
+
+[LinkedIn](https://linkedin.com/in/josephiesue) · [Email](mailto:joseph.iesue@liverpool.ac.uk) · [Instagram](https://instagram.com/josephiesue)
+
+### EntrLabs
+
+[Email](mailto:info@entr.cc)
+
 ## What belongs
 
 A contribution should strengthen at least one research domain: direct entrepreneurship service-learning, experiential entrepreneurship education, transferable service-learning design, reflection and assessment, reciprocal community partnership, institutional implementation, or learner and partner outcomes. Contradictory findings and well-supported critiques are welcome.
