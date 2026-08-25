@@ -1,0 +1,2530 @@
+[
+  {
+    "key": "P6GXDAN3",
+    "version": 92343,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/P6GXDAN3",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/P6GXDAN3",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/3ED72UKC",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 120129
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Yorio⁩ and ⁨Ye⁩",
+      "parsedDate": "2012-03",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "P6GXDAN3",
+      "version": 92343,
+      "itemType": "journalArticle",
+      "title": "A meta-analysis on the effects of service-learning on the social, personal, and cognitive outcomes of learning",
+      "date": "03/2012",
+      "language": "en",
+      "url": "http://journals.aom.org/doi/10.5465/amle.2010.0072",
+      "accessDate": "2025-12-23T07:13:38Z",
+      "extra": "南农高质量: A",
+      "volume": "11",
+      "pages": "9-27",
+      "publicationTitle": "Academy of Management Learning & Education",
+      "DOI": "10.5465/amle.2010.0072",
+      "issue": "1",
+      "journalAbbreviation": "AMLE",
+      "ISSN": "1537-260X, 1944-9585",
+      "creators": [
+        {
+          "firstName": "Patrick L.",
+          "lastName": "Yorio",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Feifei",
+          "lastName": "Ye",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "YRNKICYW",
+        "FXSBIUSI"
+      ],
+      "relations": {},
+      "dateAdded": "2025-12-23T07:13:38Z",
+      "dateModified": "2026-07-26T14:06:27Z"
+    }
+  },
+  {
+    "key": "PHWJCUJM",
+    "version": 94200,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/PHWJCUJM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/PHWJCUJM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/583DAA55",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 700138
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Motta⁩ and ⁨Galina⁩",
+      "parsedDate": "2023-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "PHWJCUJM",
+      "version": 94200,
+      "itemType": "journalArticle",
+      "title": "Experiential learning in entrepreneurship education: A systematic literature review",
+      "date": "01/2023",
+      "language": "en",
+      "shortTitle": "Experiential learning in entrepreneurship education",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0742051X22002943",
+      "accessDate": "2026-08-11T13:32:07Z",
+      "extra": "南农高质量: A",
+      "volume": "121",
+      "pages": "103919",
+      "publicationTitle": "Teaching and Teacher Education",
+      "DOI": "10.1016/j.tate.2022.103919",
+      "journalAbbreviation": "Teaching and Teacher Education",
+      "ISSN": "0742051X",
+      "creators": [
+        {
+          "firstName": "Victória Figueiredo",
+          "lastName": "Motta",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Simone Vasconcelos Ribeiro",
+          "lastName": "Galina",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "CUDUZP97"
+      ],
+      "relations": {},
+      "dateAdded": "2026-08-11T13:32:07Z",
+      "dateModified": "2026-08-17T09:35:18Z"
+    }
+  },
+  {
+    "key": "QYPFRUBZ",
+    "version": 92343,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/QYPFRUBZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/QYPFRUBZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/C26UKXX4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 202442
+      }
+    },
+    "meta": {
+      "creatorSummary": "Celio et al.",
+      "parsedDate": "2011-09",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "QYPFRUBZ",
+      "version": 92343,
+      "itemType": "journalArticle",
+      "title": "A meta-analysis of the impact of service-learning on students",
+      "abstractNote": "Service-learning (SL) has become a popular teaching method everywhere from elementary schools to colleges. Despite the increased presence of SL in the education world, it is still unclear what student outcomes are associated with SL programs and what factors are related to more effective programs. A meta-analysis of 62 studies involving 11,837 students indicated that, compared to controls, students participating in SL programs demonstrated significant gains in five outcome areas: attitudes toward self, attitudes toward school and learning, civic engagement, social skills, and academic performance. Mean effects ranged from 0.27 to 0.43. Furthermore, as predicted, there was empirical support for the position that following certain recommended practices—such as linking to curriculum, voice, community involvement, and reflection—was associated with better outcomes. Current data should be gratifying for educators who incorporate SL into their courses, and should encourage more SL research to understand how students benefit and what conditions foster their growth and development.",
+      "date": "09/2011",
+      "language": "en",
+      "url": "https://journals.sagepub.com/doi/10.1177/105382591103400205",
+      "accessDate": "2025-12-23T07:13:50Z",
+      "volume": "34",
+      "pages": "164-181",
+      "publicationTitle": "Journal of Experiential Education",
+      "DOI": "10.1177/105382591103400205",
+      "issue": "2",
+      "journalAbbreviation": "Journal of Experiential Education",
+      "ISSN": "1053-8259, 2169-009X",
+      "creators": [
+        {
+          "firstName": "Christine I.",
+          "lastName": "Celio",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Joseph",
+          "lastName": "Durlak",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Allison",
+          "lastName": "Dymnicki",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "YRNKICYW"
+      ],
+      "relations": {},
+      "dateAdded": "2025-12-23T07:13:51Z",
+      "dateModified": "2026-07-26T14:06:35Z"
+    }
+  },
+  {
+    "key": "XSIUCHQY",
+    "version": 96348,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/XSIUCHQY",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/XSIUCHQY",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/XTL7BE4Y",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 570540
+      }
+    },
+    "meta": {
+      "creatorSummary": "Salam et al.",
+      "parsedDate": "2019-12-01",
+      "numChildren": 6
+    },
+    "data": {
+      "key": "XSIUCHQY",
+      "version": 96348,
+      "itemType": "journalArticle",
+      "title": "Service learning in higher education: A systematic literature review",
+      "abstractNote": "In the last few years, adoption of service learning in higher educational institutions has emerged as a modern teaching and learning strategy. This study is aimed to offer a systematic literature review of service learning implementation in higher education. There is a lack of research on the role of service learning in higher education sector. Moreover, a comprehensive systematic literature review of service learning in higher education is also overlooked in previous studies. Therefore, this study covers an in-depth systematic literature review, which reflects the utilisation approach and outcomes of service learning in higher education. By employing a rigorous exploratory approach, this study offers four major findings: (1) Acceptance and use of service learning in different academic disciplines, which covers a detailed discussion of up to what extent service learning pedagogy practice exists in each discipline. (2) Emerging issues regarding the integration of service learning in different academic disciplines. (3) Comparative analysis of previous service learning frameworks, which includes theoretical foundation, main findings and limitations of each framework. (4) Potential benefits of service learning for all participants. Service learning presents diverse benefits for all stakeholders; we identified the list of potential outcomes in the light of emerging service learning literature. These findings show that service learning is frequently employed in some academic disciplines, i.e. medical and nursing sciences; business and economics; computer science and information system; social studies; teacher education; linguistic and environmental disciplines. Moreover, comparison of previous service learning frameworks revealed that most of them are subject-oriented, specifically focused on institutionalising and practical aspects.",
+      "date": "2019-12-01",
+      "language": "en",
+      "shortTitle": "Service learning in higher education",
+      "url": "https://doi.org/10.1007/s12564-019-09580-6",
+      "accessDate": "2024-01-23T07:36:40Z",
+      "extra": "南农高质量: C",
+      "volume": "20",
+      "pages": "573-593",
+      "publicationTitle": "Asia Pacific Education Review",
+      "DOI": "10.1007/s12564-019-09580-6",
+      "issue": "4",
+      "journalAbbreviation": "Asia Pacific Educ. Rev.",
+      "ISSN": "1876-407X",
+      "creators": [
+        {
+          "firstName": "Maimoona",
+          "lastName": "Salam",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Dayang Nurfatimah",
+          "lastName": "Awang Iskandar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Dayang Hanani Abang",
+          "lastName": "Ibrahim",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Muhammad Shoaib",
+          "lastName": "Farooq",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Higher education"
+        },
+        {
+          "tag": "Service learning"
+        },
+        {
+          "tag": "Experiential learning"
+        },
+        {
+          "tag": "Literature review"
+        },
+        {
+          "tag": "Service learning framework"
+        }
+      ],
+      "collections": [
+        "BUKBI57U",
+        "BLRN6HQB",
+        "JGHEY42Z",
+        "3SB3AWQP",
+        "RCIGYAHR",
+        "FXSBIUSI",
+        "93NG9DKM",
+        "CUDUZP97"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/DC4HBJV8",
+          "http://zotero.org/users/4686528/items/I7BUKGPY",
+          "http://zotero.org/users/4686528/items/N6T84IAL",
+          "http://zotero.org/users/4686528/items/PTR58EFK",
+          "http://zotero.org/users/4686528/items/Q3Z6Y9MH"
+        ]
+      },
+      "dateAdded": "2025-12-01T06:45:32Z",
+      "dateModified": "2026-08-17T09:43:36Z"
+    }
+  },
+  {
+    "key": "95IXXXC4",
+    "version": 92323,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/95IXXXC4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/95IXXXC4",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Bringle⁩ and ⁨Hatcher⁩",
+      "parsedDate": "1996-03",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "95IXXXC4",
+      "version": 92323,
+      "itemType": "journalArticle",
+      "title": "Implementing service learning in higher education",
+      "date": "03/1996",
+      "language": "en",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00221546.1996.11780257",
+      "accessDate": "2025-12-14T09:19:31Z",
+      "volume": "67",
+      "pages": "221-239",
+      "publicationTitle": "The Journal of Higher Education",
+      "DOI": "10.1080/00221546.1996.11780257",
+      "issue": "2",
+      "journalAbbreviation": "The Journal of Higher Education",
+      "ISSN": "0022-1546, 1538-4640",
+      "creators": [
+        {
+          "firstName": "Robert G.",
+          "lastName": "Bringle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Julie A.",
+          "lastName": "Hatcher",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "N7J26KNK"
+      ],
+      "relations": {},
+      "dateAdded": "2025-12-14T09:19:31Z",
+      "dateModified": "2026-07-26T14:05:49Z"
+    }
+  },
+  {
+    "key": "F5AIPR73",
+    "version": 96357,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/F5AIPR73",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/F5AIPR73",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/IJEL9GHH",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 396638
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Bringle⁩ and ⁨Hatcher⁩",
+      "parsedDate": "2000-05-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "F5AIPR73",
+      "version": 96357,
+      "itemType": "journalArticle",
+      "title": "Institutionalization of service learning in higher education",
+      "date": "2000-05-01",
+      "url": "https://doi.org/10.1080/00221546.2000.11780823",
+      "accessDate": "2026-06-08T08:18:12Z",
+      "extra": "_eprint: https://doi.org/10.1080/00221546.2000.11780823",
+      "volume": "71",
+      "publisher": "Routledge",
+      "pages": "273-290",
+      "publicationTitle": "The Journal of Higher Education",
+      "DOI": "10.1080/00221546.2000.11780823",
+      "issue": "3",
+      "ISSN": "0022-1546",
+      "creators": [
+        {
+          "firstName": "Robert G.",
+          "lastName": "Bringle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Julie A.",
+          "lastName": "Hatcher",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "CUDUZP97"
+      ],
+      "relations": {},
+      "dateAdded": "2026-06-08T08:18:12Z",
+      "dateModified": "2026-08-17T09:43:36Z"
+    }
+  },
+  {
+    "key": "UXQSQC56",
+    "version": 94458,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/UXQSQC56",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/UXQSQC56",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/EMJBXTQD",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 87313
+      }
+    },
+    "meta": {
+      "creatorSummary": "Petkus",
+      "parsedDate": "2000-04-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "UXQSQC56",
+      "version": 94458,
+      "itemType": "journalArticle",
+      "title": "A theoretical and practical framework for service-learning in marketing: Kolb’s experiential learning cycle",
+      "abstractNote": "The purpose of this article is to provide a framework for the design and implementation of service-learning courses in marketing. First, this article describes an experiential learning framework to be used as a guide for planning, designing, implementing, and evaluating a service-learning course. Second, this article specifies in detail service-learning implementation strategies for particular marketing courses. Third, this article describes actual methodology and outcomes of a service-learning case history for a consumer behavior course.",
+      "date": "2000-04-01",
+      "language": "en",
+      "shortTitle": "A Theoretical and Practical Framework for Service-Learning in Marketing",
+      "url": "https://doi.org/10.1177/0273475300221008",
+      "accessDate": "2024-02-27T17:48:07Z",
+      "volume": "22",
+      "pages": "64-70",
+      "publicationTitle": "Journal of Marketing Education",
+      "DOI": "10.1177/0273475300221008",
+      "issue": "1",
+      "ISSN": "0273-4753",
+      "creators": [
+        {
+          "firstName": "Ed",
+          "lastName": "Petkus",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "5LF83VR5"
+      ],
+      "relations": {},
+      "dateAdded": "2024-02-27T17:48:07Z",
+      "dateModified": "2026-08-17T09:43:36Z"
+    }
+  },
+  {
+    "key": "WPG2GIKF",
+    "version": 90973,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/WPG2GIKF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/WPG2GIKF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/TCRIB85J",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 263258
+      }
+    },
+    "meta": {
+      "creatorSummary": "Carver",
+      "parsedDate": "1997-06",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "WPG2GIKF",
+      "version": 90973,
+      "itemType": "journalArticle",
+      "title": "Theoretical underpinnings of service learning",
+      "date": "06/1997",
+      "language": "en",
+      "url": "http://www.tandfonline.com/doi/abs/10.1080/00405849709543760",
+      "accessDate": "2021-07-05T02:28:06Z",
+      "extra": "2.329\n南农高质量: B",
+      "volume": "36",
+      "pages": "143-149",
+      "publicationTitle": "Theory Into Practice",
+      "DOI": "10.1080/00405849709543760",
+      "issue": "3",
+      "journalAbbreviation": "Theory Into Practice",
+      "ISSN": "0040-5841, 1543-0421",
+      "creators": [
+        {
+          "firstName": "Rebecca Lynn",
+          "lastName": "Carver",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        },
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "🩸",
+          "type": 1
+        },
+        {
+          "tag": "--July 4--da.o2"
+        },
+        {
+          "tag": "--ACTIVE (to Cite)-- Op CT-403_da.02 (7.21)"
+        },
+        {
+          "tag": "Theory"
+        },
+        {
+          "tag": "Service learning"
+        }
+      ],
+      "collections": [
+        "VZ6TTEC9",
+        "5LF83VR5",
+        "RYSAKT7R",
+        "CUDUZP97",
+        "FXSBIUSI"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/8WEDM7Y5",
+          "http://zotero.org/users/4686528/items/GDQ9BTPV"
+        ]
+      },
+      "dateAdded": "2021-07-05T02:28:06Z",
+      "dateModified": "2026-07-26T14:06:55Z"
+    }
+  },
+  {
+    "key": "MREE9RN6",
+    "version": 96248,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/MREE9RN6",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/MREE9RN6",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/YB5J5T78",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 472076
+      }
+    },
+    "meta": {
+      "creatorSummary": "Brower",
+      "parsedDate": "2011-03-01",
+      "numChildren": 3
+    },
+    "data": {
+      "key": "MREE9RN6",
+      "version": 96248,
+      "itemType": "journalArticle",
+      "title": "Sustainable development through service learning: A pedagogical framework and case example in a third world context",
+      "abstractNote": "Because of changes in awareness, student values, and social responsibility, universities have an increasing interest in developing meaningful courses on sustainable community development and social enterprise. I suggest that the nature of these courses and the complexity of the issues are best addressed using a service-learning pedagogical approach. Two faculty members and eight students spent 1 month studying and experiencing poverty, malnutrition, education with dire lack of resources, and other social dilemmas and explored how one brings sustainable change, owned by the indigenous community. This case example of a business elective about sustainable community development in a third world country serves to illustrate the framework for delivering such content. The unique characteristics of sustainable community development are integrated with the strengths of service learning into a framework that may be used by others who might develop similar courses. Drawing on both literatures, the framework provides a powerful opportunity to experience the context in which development happens while learning the content.",
+      "date": "March 1, 2011",
+      "shortTitle": "Sustainable Development Through Service Learning",
+      "url": "https://journals.aom.org/doi/abs/10.5465/amle.10.1.zqr58",
+      "accessDate": "2021-11-01T04:02:17Z",
+      "extra": "4.373\n南农高质量: A",
+      "volume": "10",
+      "pages": "58-76",
+      "publicationTitle": "Academy of Management Learning & Education",
+      "DOI": "10.5465/amle.10.1.zqr58",
+      "issue": "1",
+      "journalAbbreviation": "AMLE",
+      "ISSN": "1537-260X",
+      "creators": [
+        {
+          "firstName": "Holly H.",
+          "lastName": "Brower",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        },
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "🩸",
+          "type": 1
+        },
+        {
+          "tag": "--ALERT-- (to Read)--"
+        },
+        {
+          "tag": "Sustainable development"
+        },
+        {
+          "tag": "Social entrepreneurship"
+        },
+        {
+          "tag": "Service learning"
+        },
+        {
+          "tag": "Developing countries"
+        },
+        {
+          "tag": "Community development"
+        },
+        {
+          "tag": "Social responsibility"
+        }
+      ],
+      "collections": [
+        "5LF83VR5",
+        "CUDUZP97",
+        "FXSBIUSI"
+      ],
+      "relations": {},
+      "dateAdded": "2021-11-01T04:02:17Z",
+      "dateModified": "2026-08-17T09:43:36Z"
+    }
+  },
+  {
+    "key": "HN95A9YW",
+    "version": 101793,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/HN95A9YW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/HN95A9YW",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/4KPHZATF",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 778220
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Brunstein⁩ and ⁨King⁩",
+      "parsedDate": "2018-12",
+      "numChildren": 6
+    },
+    "data": {
+      "key": "HN95A9YW",
+      "version": 101793,
+      "itemType": "journalArticle",
+      "title": "Organizing reflection to address collective dilemmas: Engaging students and professors with sustainable development in higher education",
+      "abstractNote": "Critical reflection and transformative learning theories generally place emphasis on individual change, giving little consideration to the organizational and societal aspects. Consequently, it is individual and not collective dilemmas that are reinforced in higher education. However, a call for an education initiative for sustainable development requires a shift in focus. This article considers transformative learning for sustainability within the context of an American university whose mission encompasses being a center for excellence in transformative teaching and learning. The analysis is divided into three parts as follows: The organizing reflection process of the university; how professors concretize collective dilemma in their teaching; and c) student engagement levels in collective dilemmas with regard to the tenets of service learning and civic engagement. Despite its unique trajectory, this qualitative case study presents an argument - in order to achieve a paradigmatic shift toward sustainability, we need to create an organizing process of reflection to address collective dilemmas and engage faculty and students in a continuous and institutionalized transformative learning process. The results show the potential and limitations of the analyzed experience; further, it addresses the theoretical implications and practical insights for fostering critical reflection and transformative learning toward sustainability. (C) 2018 Elsevier Ltd. All rights reserved.",
+      "date": "12/2018",
+      "language": "English",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S0959652618324806",
+      "extra": "南农高质量: A",
+      "volume": "203",
+      "pages": "153-163",
+      "publicationTitle": "Journal of Cleaner Production",
+      "DOI": "10.1016/j.jclepro.2018.08.136",
+      "journalAbbreviation": "Journal of Cleaner Production",
+      "ISSN": "09596526",
+      "creators": [
+        {
+          "firstName": "Janette",
+          "lastName": "Brunstein",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jeff",
+          "lastName": "King",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Higher education"
+        },
+        {
+          "tag": "Sustainable development"
+        },
+        {
+          "tag": "Service learning"
+        },
+        {
+          "tag": "Civic engagement"
+        },
+        {
+          "tag": "ENGAGEMENT"
+        },
+        {
+          "tag": "INSTITUTIONS"
+        },
+        {
+          "tag": "Collective dilemmas"
+        },
+        {
+          "tag": "Organizing reflection"
+        },
+        {
+          "tag": "PEDAGOGY"
+        },
+        {
+          "tag": "WoS_Main"
+        },
+        {
+          "tag": "Scopus_Main"
+        },
+        {
+          "tag": "ELEM Core evidence"
+        },
+        {
+          "tag": "ELEM pillars A / B / C"
+        },
+        {
+          "tag": "Scopus/WoS - original 219"
+        }
+      ],
+      "collections": [
+        "ZVRQLMR8",
+        "UIE3MMJF",
+        "E2YXD6B9",
+        "549AP9NB",
+        "I564IF3C",
+        "WAFRDDV7",
+        "EGZVXRCD",
+        "PAZAYZ8T"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/2RFTSWIT",
+          "http://zotero.org/users/4686528/items/3DKEQTB3",
+          "http://zotero.org/users/4686528/items/5XH8BX9B",
+          "http://zotero.org/users/4686528/items/6B5FPMI2",
+          "http://zotero.org/users/4686528/items/ADXME2WH",
+          "http://zotero.org/users/4686528/items/MAQ3IBMX",
+          "http://zotero.org/users/4686528/items/VXD7Y6XS"
+        ]
+      },
+      "dateAdded": "2026-07-09T13:24:29Z",
+      "dateModified": "2026-08-17T13:41:38Z"
+    }
+  },
+  {
+    "key": "RESBVRRZ",
+    "version": 91623,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/RESBVRRZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/RESBVRRZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/PZC27YAR",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 838951
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lo et al.",
+      "parsedDate": "2022-04-18",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RESBVRRZ",
+      "version": 91623,
+      "itemType": "journalArticle",
+      "title": "How students’ motivation and learning experience affect their service- learning outcomes: A structural equation modeling analysis",
+      "abstractNote": "Guided by the expectancy-value theory of motivation in learning, we ex plored the causal relationship between students’ learning experiences, motivation, and cognitive learning outcome in academic service-learni ng. Based on a sample of 2,056 college students from a university in H ong Kong, the findings affirm that learning experiences and motivation are key factors determining cognitive learning outcome, affording a b etter understanding of student learning behavior and the impact in ser vice-learning. This research provides an insight into the impact of mo tivation and learning experiences on students’ cognitive learning outc ome while engaging in academic service-learning. This not only can dis cover the intermediate factors of the learning process but also provid es insights to educators on how to enhance their teaching pedagogy.",
+      "date": "2022-04-18",
+      "url": "http://dx.doi.org/10.3389/fpsyg.2022.825902",
+      "extra": "南农高质量: A",
+      "volume": "13",
+      "publicationTitle": "Frontiers in Psychology",
+      "DOI": "10.3389/fpsyg.2022.825902",
+      "journalAbbreviation": "Front. Psychol.",
+      "ISSN": "1664-1078",
+      "creators": [
+        {
+          "firstName": "Kenneth W. K.",
+          "lastName": "Lo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Grace",
+          "lastName": "Ngai",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stephen C. F.",
+          "lastName": "Chan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kam-por",
+          "lastName": "Kwan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "Z4S9EVIJ",
+        "3SB3AWQP",
+        "RCIGYAHR",
+        "BUKBI57U",
+        "FXSBIUSI",
+        "93NG9DKM"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/U6JCV3RH",
+          "http://zotero.org/users/4686528/items/UM64MYPJ",
+          "http://zotero.org/users/4686528/items/V5TA4EYB"
+        ]
+      },
+      "dateAdded": "2025-02-25T06:45:40Z",
+      "dateModified": "2026-07-26T14:06:37Z"
+    }
+  },
+  {
+    "key": "EPHPPVPW",
+    "version": 96318,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/EPHPPVPW",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/EPHPPVPW",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/5SNAHLSD",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 122123
+      }
+    },
+    "meta": {
+      "creatorSummary": "McCrea",
+      "parsedDate": "2010-02-01",
+      "numChildren": 4
+    },
+    "data": {
+      "key": "EPHPPVPW",
+      "version": 96318,
+      "itemType": "journalArticle",
+      "title": "Integrating service-learning into an introduction to entrepreneurship course",
+      "abstractNote": "Despite fairly widespread recognition that entrepreneurship occurs in both profit and nonprofit enterprises, a review of experiential learning techniques in entrepreneurship education does not explicitly mention service-learning. This omission may be because of a perceived lack of relevance of the pedagogy to entrepreneurship, the belief that inexperienced students are not interested in or capable of the work, and/or faculty concern about the approach’s time-consuming nature. Yet service-learning can be a powerful pedagogy for teaching the skills and body of knowledge pertaining to entrepreneurship. This article chronicles the author’s experience integrating service-learning into an introductory undergraduate entrepreneurship course and offers it as a model for others to adapt to their own preferences and teaching context. It includes the author’s rationale for using service-learning, an abridged course syllabus, sample student reflection assignments, a project grading rubric, and other course materials. Client and student feedback as well as the author’s personal reflections on the learning experience are also provided.",
+      "date": "2010-02-01",
+      "language": "en",
+      "url": "https://doi.org/10.1177/1052562909337906",
+      "accessDate": "2025-01-18T13:00:34Z",
+      "volume": "34",
+      "publisher": "SAGE Publications Inc",
+      "pages": "39-61",
+      "publicationTitle": "Journal of Management Education",
+      "DOI": "10.1177/1052562909337906",
+      "issue": "1",
+      "ISSN": "1052-5629",
+      "creators": [
+        {
+          "firstName": "Elizabeth A.",
+          "lastName": "McCrea",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        },
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "🩸",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "KNYI2I53",
+        "URGI7LFR",
+        "VZ6TTEC9",
+        "P5IIE9D8",
+        "5LF83VR5",
+        "CQ2RFR6E",
+        "VFQ2EBYW",
+        "RYSAKT7R",
+        "CUDUZP97",
+        "3NLFZEM6"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/6X24HUJB",
+          "http://zotero.org/users/4686528/items/PIN3XT5P",
+          "http://zotero.org/users/4686528/items/TP5VQ4R2"
+        ]
+      },
+      "dateAdded": "2025-01-18T13:00:34Z",
+      "dateModified": "2026-08-17T09:43:36Z"
+    }
+  },
+  {
+    "key": "S75XGURH",
+    "version": 103065,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/S75XGURH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/S75XGURH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/37FNF4EQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1175359
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Fadlelmula⁩ and ⁨Qadhi⁩",
+      "parsedDate": "2024-09",
+      "numChildren": 5
+    },
+    "data": {
+      "key": "S75XGURH",
+      "version": 103065,
+      "itemType": "journalArticle",
+      "title": "Beyond the classroom: Integrating the ORID model for in-depth reflection and assessment in service-learning",
+      "abstractNote": "Service-learning is a community-based learning approach that bridges academic knowledge with practical application through purposeful exploration, action, and reflection. In addition to enhancing academic learning in various disciplines, service-learning cultivates students' self-awareness, personal values, and social responsibility, preparing them with essential skills for life beyond the classroom. However, due to its experiential nature, service-learning presents challenges for effective assessment. This study provides a concrete example of student reflections structured by the Objective, Reflective, Interpretive, and Decisional (ORID) model in practice. Content analysis was implemented by examining undergraduate students' end-of-semester reflection papers while volunteering during the 2022 FIFA World Cup in Qatar. The results showed that the model provided a guided and structured format for students to reflect on their service-learning, going beyond reporting on factual details to engaging in profound reflections on the emotional, cognitive, and prospective aspects. Moreover, with the solution aspect added to the model, students could express their creativity, articulating on innovative solutions they proposed to overcome challenges and how they turned the challenges into favorable outcomes. Clearly, the model stands as a powerful tool for educators, offering deeper insights into students' authentic experiences, fostering comprehensive, critical, and insightful reflection, and thereby facilitating the effective assessment of experiential learning.",
+      "date": "2024 SEP",
+      "language": "English",
+      "volume": "14",
+      "publicationTitle": "Education Sciences",
+      "DOI": "10.3390/educsci14090987",
+      "issue": "9",
+      "ISSN": "2227-7102",
+      "creators": [
+        {
+          "firstName": "FK",
+          "lastName": "Fadlelmula",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "SM",
+          "lastName": "Qadhi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "service-learning"
+        },
+        {
+          "tag": "higher education"
+        },
+        {
+          "tag": "reflection"
+        },
+        {
+          "tag": "EXPERIENCES"
+        },
+        {
+          "tag": "assessment"
+        },
+        {
+          "tag": "SOCIAL-JUSTICE"
+        },
+        {
+          "tag": "ORID model"
+        },
+        {
+          "tag": "RUBRICS"
+        },
+        {
+          "tag": "WoS_Main"
+        },
+        {
+          "tag": "ELEM Core evidence"
+        },
+        {
+          "tag": "ELEM pillars A / B / C"
+        },
+        {
+          "tag": "Scopus/WoS - recovered 77"
+        }
+      ],
+      "collections": [
+        "ZVRQLMR8",
+        "E2YXD6B9",
+        "EGZVXRCD",
+        "PAZAYZ8T"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/J7QRGKET"
+        ]
+      },
+      "dateAdded": "2026-07-09T13:24:29Z",
+      "dateModified": "2026-08-18T09:35:32Z"
+    }
+  },
+  {
+    "key": "9IDYQSNS",
+    "version": 100180,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/9IDYQSNS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/9IDYQSNS",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/FXBKVAH3",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2358759
+      }
+    },
+    "meta": {
+      "creatorSummary": "Park et al.",
+      "parsedDate": "2022-11-02",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "9IDYQSNS",
+      "version": 100180,
+      "itemType": "journalArticle",
+      "title": "The development of high leverage practices in environmental sustainability-focused service learning courses: applications for higher education",
+      "date": "2022-11-02",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13504622.2022.2070603",
+      "extra": "南农高质量: B",
+      "volume": "28",
+      "pages": "1635-1655",
+      "publicationTitle": "Environmental Education Research",
+      "DOI": "10.1080/13504622.2022.2070603",
+      "issue": "11",
+      "journalAbbreviation": "Environmental Education Research",
+      "ISSN": "1350-4622, 1469-5871",
+      "creators": [
+        {
+          "firstName": "Byung-Yeol",
+          "lastName": "Park",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rebecca",
+          "lastName": "Campbell-Montalvo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Todd",
+          "lastName": "Campbell",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hannah",
+          "lastName": "Cooke",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chester",
+          "lastName": "Arnold",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "John C.",
+          "lastName": "Volin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Maria",
+          "lastName": "Chrysochoou",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Peter C.",
+          "lastName": "Diplock",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scopus_Main"
+        }
+      ],
+      "collections": [
+        "UIE3MMJF",
+        "E2YXD6B9"
+      ],
+      "relations": {},
+      "dateAdded": "2026-07-09T13:24:34Z",
+      "dateModified": "2026-08-17T11:31:48Z"
+    }
+  },
+  {
+    "key": "62SCCGRH",
+    "version": 92333,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/62SCCGRH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/62SCCGRH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/JKKMLTX6",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 2471879
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lester et al.",
+      "parsedDate": "2005-09",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "62SCCGRH",
+      "version": 92333,
+      "itemType": "journalArticle",
+      "title": "Does service-learning add value? Examining the perspectives of multiple stakeholders",
+      "date": "09/2005",
+      "language": "en",
+      "shortTitle": "Does Service-Learning Add Value?",
+      "url": "http://journals.aom.org/doi/10.5465/amle.2005.18122418",
+      "accessDate": "2025-12-14T09:19:49Z",
+      "extra": "南农高质量: A",
+      "volume": "4",
+      "pages": "278-294",
+      "publicationTitle": "Academy of Management Learning & Education",
+      "DOI": "10.5465/amle.2005.18122418",
+      "issue": "3",
+      "journalAbbreviation": "AMLE",
+      "ISSN": "1537-260X, 1944-9585",
+      "creators": [
+        {
+          "firstName": "Scott W.",
+          "lastName": "Lester",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chuck",
+          "lastName": "Tomkovick",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Theresa",
+          "lastName": "Wells",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lanette",
+          "lastName": "Flunker",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jill",
+          "lastName": "Kickul",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        },
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "🩸",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "N7J26KNK",
+        "5LF83VR5",
+        "VFQ2EBYW",
+        "RYSAKT7R",
+        "CUDUZP97",
+        "HHKXCSM8",
+        "FXSBIUSI"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/3TK94T7W",
+          "http://zotero.org/users/4686528/items/EY83STH6",
+          "http://zotero.org/users/4686528/items/SH5MB7UT"
+        ],
+        "dc:relation": [
+          "http://zotero.org/users/4686528/items/9LKKLL43",
+          "http://zotero.org/users/4686528/items/R4A6CW3I"
+        ]
+      },
+      "dateAdded": "2021-09-21T03:53:48Z",
+      "dateModified": "2026-07-26T14:05:42Z"
+    }
+  },
+  {
+    "key": "29JY3GXH",
+    "version": 92343,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/29JY3GXH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/29JY3GXH",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/4A99QMF5",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 216219
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Blouin⁩ and ⁨Perry⁩",
+      "parsedDate": "2009-04",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "29JY3GXH",
+      "version": 92343,
+      "itemType": "journalArticle",
+      "title": "Whom does service learning really serve? Community-based organizations' perspectives on service learning",
+      "abstractNote": "One of the major selling points of service-learning courses is their potential to mutually benefit communities, universities, and students. Although a great deal of research reports numerous pedagogical and personal benefits for students—from improved grades and increased civic engagement to increased understanding and appreciation of diversity—there is relatively little research on the impact of service learning on the community. To understand when and how service-learning courses benefit the community, we conducted in-depth interviews with representatives of local community-based organizations that have worked with service learners. We report on the primary benefits and costs associated with service-learning courses. We identify three types of obstacles to successful service-learning courses: issues related to student conduct, poor fit between course and organizational objectives, and lack of communication between instructors and organizations. We develop practical guidelines for addressing these obstacles and for ensuring that service learning fulfills teaching and learning goals and provides valuable service to community-based organizations.",
+      "date": "04/2009",
+      "language": "en",
+      "shortTitle": "Whom Does Service Learning Really Serve?",
+      "url": "https://journals.sagepub.com/doi/10.1177/0092055X0903700201",
+      "accessDate": "2025-12-23T07:14:02Z",
+      "rights": "https://journals.sagepub.com/page/policies/text-and-data-mining-license",
+      "extra": "南农高质量: B",
+      "volume": "37",
+      "pages": "120-135",
+      "publicationTitle": "Teaching Sociology",
+      "DOI": "10.1177/0092055X0903700201",
+      "issue": "2",
+      "journalAbbreviation": "Teaching Sociology",
+      "ISSN": "0092-055X, 1939-862X",
+      "creators": [
+        {
+          "firstName": "David D.",
+          "lastName": "Blouin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Evelyn M.",
+          "lastName": "Perry",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "YRNKICYW",
+        "FXSBIUSI"
+      ],
+      "relations": {},
+      "dateAdded": "2025-12-23T07:14:02Z",
+      "dateModified": "2026-07-26T14:05:33Z"
+    }
+  },
+  {
+    "key": "SJ3LTXLA",
+    "version": 57174,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/SJ3LTXLA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/SJ3LTXLA",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/NLBFBAPQ",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 90897
+      }
+    },
+    "meta": {
+      "creatorSummary": "Grain et al.",
+      "parsedDate": "2019",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "SJ3LTXLA",
+      "version": 57174,
+      "itemType": "journalArticle",
+      "title": "Co-constructing knowledge in uganda: Host community conceptions of relationships in international service-learning",
+      "date": "2019",
+      "volume": "42",
+      "pages": "22-36",
+      "publicationTitle": "Journal of Experiential Education",
+      "DOI": "10.1177/1053825918820677",
+      "issue": "1",
+      "journalAbbreviation": "Journal of Experiential Education",
+      "creators": [
+        {
+          "firstName": "Kari",
+          "lastName": "Grain",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tonny",
+          "lastName": "Katumba",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Dennis",
+          "lastName": "Kirumira",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rosemary",
+          "lastName": "Nakasiita",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Saudah",
+          "lastName": "Nakayenga",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Eseza",
+          "lastName": "Nankya",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vicent",
+          "lastName": "Nteza",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Micheal",
+          "lastName": "Ssegawa",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "62PBHTLC",
+        "RCIGYAHR",
+        "BUKBI57U"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/ZZGV65GA"
+        ]
+      },
+      "dateAdded": "2025-10-14T11:44:51Z",
+      "dateModified": "2025-12-01T06:59:41Z"
+    }
+  },
+  {
+    "key": "TNF6HBR4",
+    "version": 91603,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/TNF6HBR4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/TNF6HBR4",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/5ZZ4YWAK",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 961554
+      }
+    },
+    "meta": {
+      "creatorSummary": "Saavedra et al.",
+      "parsedDate": "2022-08-05",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "TNF6HBR4",
+      "version": 91603,
+      "itemType": "journalArticle",
+      "title": "Critical service-learning supports social justice and civic engagement orientations in college students",
+      "abstractNote": "Service-learning is a high-impact practice that increases students’ engagement with class material and the community. However, a critical lens is needed to strengthen students’ understanding of and commitment to social justice. This mixed-method study examined the impact of a critical service-learning approach, which integrated critical curricula with thirty hours of service to community organizations, on undergraduate students’ orientations towards social justice and civic engagement. Statistical analyses suggested significant differences in social dominance orientation and orientations to civic engagement over time and across three psychology classes using critical service-learning, critical curriculum, and traditional approaches. Qualitative findings from critical service-learning students’ class reflection assignments support a proposed model for the development of a social justice orientation among college students. Over the course of the semester, students shifted from considering social justice as an unobtainable, abstract concept to identifying strategies and expressing willingness to engage in behaviors that lead to social change. This study highlights the potential for critical service-learning to enhance student learning and meet the community’s needs with an awareness of power dynamics and the systemic nature of oppression.",
+      "date": "2022-8-5",
+      "url": "https://journals.publishing.umich.edu/mjcsl/article/id/292/",
+      "accessDate": "2025-01-10T07:14:12Z",
+      "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+      "volume": "28",
+      "publicationTitle": "Michigan Journal of Community Service Learning",
+      "DOI": "10.3998/mjcsl.292",
+      "issue": "1",
+      "ISSN": "1944-0219",
+      "creators": [
+        {
+          "firstName": "Jean Abigail",
+          "lastName": "Saavedra",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lizette",
+          "lastName": "Ruiz",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lucía",
+          "lastName": "Alcalá",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "AP9R2RRD",
+        "XV3RV6VR",
+        "3SB3AWQP",
+        "RCIGYAHR",
+        "BUKBI57U"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/4UUCARWT",
+          "http://zotero.org/users/4686528/items/AAXBTVM9",
+          "http://zotero.org/users/4686528/items/QEH6H6MP",
+          "http://zotero.org/users/4686528/items/YMSGKZVI"
+        ]
+      },
+      "dateAdded": "2025-01-10T07:14:12Z",
+      "dateModified": "2026-07-26T14:06:47Z"
+    }
+  },
+  {
+    "key": "GZR4UGG4",
+    "version": 103075,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/GZR4UGG4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/GZR4UGG4",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Jordaan⁩ and ⁨Mennega⁩",
+      "parsedDate": "2022-01-27",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "GZR4UGG4",
+      "version": 103075,
+      "itemType": "journalArticle",
+      "title": "Community partners' experiences of higher education service-learning in a community engagement module",
+      "abstractNote": "Purpose\n              The purpose of this empirical research paper is to investigate the self-perceived role of the community partner of a higher education service-learning and community engagement module.\n            \n            \n              Design/methodology/approach\n              A qualitative approach was followed by distributing a questionnaire to the community partners of a community engagement module and coding the responses using ATLAS.ti. A total of 36 responses were received from community partners who work with students enrolled in a compulsory undergraduate community-based project module at the University of Pretoria's Faculty of Engineering, Built Environment and Information Technology.\n            \n            \n              Findings\n              The community partners share a common interest in the students' education. They are experts in their fields and can share their knowledge with the students and the university. Through these partnerships, long-term reciprocal relationships can develop. Community partners can become co-educators and partners in education. The pragmatist representations of community partners can be challenged when they understand their own stakes in service-learning or community engagement projects. This better aids higher education institutes in the management and evaluation of service-learning and community engagement pedagogies and curricula.\n            \n            \n              Research limitations/implications\n              Two main limitations underlie this study. Firstly, this research is based on data from one community module at a single university. Although a large number of students are registered in the module, the study would be improved by conducting it at more than one university countrywide. Secondly, the study was performed during the first coronavirus disease 2019 (COVID-19) lockdown the country experienced. This was a completely unexpected event for which everyone was totally unprepared. Many of the community partners lacked the resources to receive or respond to an online questionnaire. The nature of the lockdown prevented the researchers from reaching these community partners for a face-to-face interview. The voice of these community partners is, therefore, silent.\n            \n            \n              Practical implications\n              The community partners reiterated their need to be seen as equal partners in the module and appreciated being part of a group of non-profit enterprises working together with a university to pursue a set of common goals. However, their status as peers depends on their willingness and ability to contribute sufficiently to the structure and demands of the service-learning module. The community partners who were able and willing to orientate each group of students to their organisation's mission and objectives, and who executed their roles according to the course requirements, experienced the greatest success in terms of project effectiveness and efficiency, and also in terms of future benefits when students returned to volunteer or provide donations. Given time, these community partners grew into an equal partner with the university's stakeholders, where both their own needs and those of the students were met during the various service-learning projects.\n            \n            \n              Social implications\n              Since all respondents in this study are non-profit organisations, the financial assistance and free labour afforded to them by the students are of paramount importance. The community partners also understand the longer-term value implications of successful student projects, as some students return of their free will to volunteer their services when gainfully employed after graduation.\n            \n            \n              Originality/value\n              Community engagement projects are rarely investigated from the community partner's point of view. This paper elicited their responses and examined them through the lens of Fraser's theory of social justice (Fraser, 2009).",
+      "date": "2022-01-27",
+      "language": "English",
+      "url": "http://www.emerald.com/jarhe/article/14/1/394-408/433476",
+      "volume": "14",
+      "pages": "394-408",
+      "publicationTitle": "Journal of Applied Research in Higher Education",
+      "DOI": "10.1108/JARHE-09-2020-0327",
+      "issue": "1",
+      "journalAbbreviation": "JARHE",
+      "ISSN": "2050-7003",
+      "creators": [
+        {
+          "firstName": "Martina",
+          "lastName": "Jordaan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nita",
+          "lastName": "Mennega",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "South Africa"
+        },
+        {
+          "tag": "Community engagement"
+        },
+        {
+          "tag": "Service-learning"
+        },
+        {
+          "tag": "Campus partners"
+        },
+        {
+          "tag": "Community-based project module"
+        },
+        {
+          "tag": "JCP module"
+        },
+        {
+          "tag": "University of Pretoria"
+        },
+        {
+          "tag": "WoS_Main"
+        }
+      ],
+      "collections": [
+        "ZVRQLMR8",
+        "E2YXD6B9"
+      ],
+      "relations": {},
+      "dateAdded": "2026-07-09T13:24:29Z",
+      "dateModified": "2026-08-18T09:35:32Z"
+    }
+  },
+  {
+    "key": "WSZ4YNKB",
+    "version": 85423,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/WSZ4YNKB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/WSZ4YNKB",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/QDV9HCE4",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1415443
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lin et al.",
+      "parsedDate": "2025-07-04",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "WSZ4YNKB",
+      "version": 85423,
+      "itemType": "journalArticle",
+      "title": "The impact of mandatory academic service-learning on university graduates’ continual civic engagement: evidence from a curriculum reform",
+      "date": "2025-07-04",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/07294360.2025.2467901",
+      "extra": "南农高质量: B",
+      "volume": "44",
+      "pages": "1143-1157",
+      "publicationTitle": "Higher Education Research & Development",
+      "DOI": "10.1080/07294360.2025.2467901",
+      "issue": "5",
+      "journalAbbreviation": "Higher Education Research & Development",
+      "ISSN": "0729-4360, 1469-8366",
+      "creators": [
+        {
+          "firstName": "Shuheng",
+          "lastName": "Lin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Grace",
+          "lastName": "Ngai",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kam Por",
+          "lastName": "Kwan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Stephen C.F.",
+          "lastName": "Chan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kenneth W.K.",
+          "lastName": "Lo",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "PARTICIPATION"
+        },
+        {
+          "tag": "METAANALYSIS"
+        },
+        {
+          "tag": "civic engagement"
+        },
+        {
+          "tag": "Curriculum reform"
+        },
+        {
+          "tag": "STUDENTS"
+        },
+        {
+          "tag": "COMMUNITY-SERVICE"
+        },
+        {
+          "tag": "VOLUNTEERISM"
+        },
+        {
+          "tag": "academic service-learning"
+        },
+        {
+          "tag": "HIGH-SCHOOL"
+        },
+        {
+          "tag": "mandatory requirement"
+        },
+        {
+          "tag": "transformative learning"
+        },
+        {
+          "tag": "WoS_Main"
+        }
+      ],
+      "collections": [
+        "S4K6BBWG",
+        "ZVRQLMR8",
+        "E2YXD6B9",
+        "549AP9NB",
+        "I564IF3C"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/ENAXT36V",
+          "http://zotero.org/users/4686528/items/JHLV83BT",
+          "http://zotero.org/users/4686528/items/S2HAXD5L",
+          "http://zotero.org/users/4686528/items/T4L44TJU"
+        ]
+      },
+      "dateAdded": "2026-06-29T08:30:16Z",
+      "dateModified": "2026-07-10T13:38:52Z"
+    }
+  },
+  {
+    "key": "G44KC8LD",
+    "version": 86883,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/G44KC8LD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/G44KC8LD",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/TGRZCM2N",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1636248
+      }
+    },
+    "meta": {
+      "creatorSummary": "Gutzweiler et al.",
+      "parsedDate": "2022-06-25",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "G44KC8LD",
+      "version": 86883,
+      "itemType": "journalArticle",
+      "title": "‘I can succeed at this’: Engagement in service learning in schools enh ances university students’ self-efficacy",
+      "abstractNote": "ABSTRACT Engaging in service learning has been linked to multiple posi tive outcomes in students, such as an increase in self-efficacy. Effec ts have been found on both general and domain-specific self-efficacy. Research on service learning has indicated that feedback and gender ha d an impact on the increase in self-efficacy, though findings are mixe d. The present study aimed to determine how service learning experienc es at a university can be optimally designed to boost college students ’ self-efficacy, while examining the effects of feedback and gender on general and teaching self-efficacy. Over 2 years, 267 bachelor’s stud ents in psychology (M age = 23.08 years, SD = 3.61; 80.5% female) cond ucted modularized prevention programs in the context of mental health at primary and secondary schools. Students rated their general and tea ching self-efficacy before (T1), during (T2), and after (T3) conductin g the program. The results indicate a positive effect of engaging in s ervice learning on students’ general (d = 0.30) and teaching (d = 0.68 ) self-efficacy from T1 to T3 with significant increases only in femal e students, and after receiving feedback. Engaging in service learning reduced gender-specific differences in self-efficacy. Feedback increa sed general and teaching self-efficacy. Female students seemed to bene fit more than male students.",
+      "date": "2022-06-25",
+      "language": "en",
+      "url": "http://dx.doi.org/10.1080/03075079.2022.2091126",
+      "extra": "南农高质量: A",
+      "volume": "47",
+      "pages": "2539-2552",
+      "publicationTitle": "Studies in Higher Education",
+      "DOI": "10.1080/03075079.2022.2091126",
+      "issue": "12",
+      "journalAbbreviation": "Studies in Higher Education",
+      "ISSN": "0307-5079",
+      "creators": [
+        {
+          "firstName": "Raphael",
+          "lastName": "Gutzweiler",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Simone",
+          "lastName": "Pfeiffer",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tina",
+          "lastName": "In-Albon",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "AM8EHPCQ",
+        "FXSBIUSI"
+      ],
+      "relations": {},
+      "dateAdded": "2025-02-26T06:43:30Z",
+      "dateModified": "2026-07-26T14:06:08Z"
+    }
+  },
+  {
+    "key": "PRUTCBXM",
+    "version": 96098,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/PRUTCBXM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/PRUTCBXM",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/D32Z5KWM",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 332463
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Hébert⁩ and ⁨Hauf⁩",
+      "parsedDate": "2015-03-01",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "PRUTCBXM",
+      "version": 96098,
+      "itemType": "journalArticle",
+      "title": "Student learning through service learning: Effects on academic development, civic responsibility, interpersonal skills and practical skills",
+      "abstractNote": "Although anecdotal evidence and research alike espouse the benefits of service learning, some researchers have suggested that more rigorous testing is required in order to determine its true effect on students. This is particularly true in the case of academic development, which has been inconsistently linked to service learning. It has been proposed that this discrepancy is due to three complications: grades not reflecting higher order thinking skills, self-selection bias, and different grading methods. The study described in this article attempted to circumvent these complications using a test?retest methodology and measuring academic development in three ways: course grades, an assignment that directly tested course-specific comprehension, and self-reported improvement. In addition, improvements in civic responsibility, interpersonal skills, and practical skills were measured via self-report. Although students who participated in service learning self-reported greater improvement in civic responsibility, interpersonal skills, and academic development, they only demonstrated more academic development in terms of concrete course concepts, showing no differences in final examination marks or generation of detailed examples. These findings suggest that academic improvement through service learning may not be adequately assessed by typical methods used to evaluate academic development at universities.",
+      "date": "2015-03-01",
+      "language": "en",
+      "shortTitle": "Student learning through service learning",
+      "url": "https://doi.org/10.1177/1469787415573357",
+      "accessDate": "2023-03-03T16:57:58Z",
+      "extra": "4.765\n南农高质量: A",
+      "volume": "16",
+      "pages": "37-49",
+      "publicationTitle": "Active Learning in Higher Education",
+      "DOI": "10.1177/1469787415573357",
+      "issue": "1",
+      "ISSN": "1469-7874",
+      "creators": [
+        {
+          "firstName": "Ali",
+          "lastName": "Hébert",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Petra",
+          "lastName": "Hauf",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        },
+        {
+          "tag": "/unread",
+          "type": 1
+        },
+        {
+          "tag": "#nosource"
+        },
+        {
+          "tag": "🩸",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "MVCDZF5J",
+        "CUDUZP97"
+      ],
+      "relations": {},
+      "dateAdded": "2023-03-03T16:57:58Z",
+      "dateModified": "2026-08-17T09:43:36Z"
+    }
+  },
+  {
+    "key": "RJYIJDGF",
+    "version": 103065,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/RJYIJDGF",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/RJYIJDGF",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/MBJCDEDP",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 248738
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨McDougle⁩ and ⁨Li⁩",
+      "parsedDate": "2023-06",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "RJYIJDGF",
+      "version": 103065,
+      "itemType": "journalArticle",
+      "title": "Service-Learning in Higher Education and Prosocial Identity Formation",
+      "abstractNote": "For most nonprofits, their effectiveness, sustainability, and survival all depend on the willingness of individuals to behave in prosocial ways, for example, by giving time, money, and/or resources to various organizations and causes. Scholars have, therefore, long sought to identify predictors of prosocial behaviors; and, one consistently significant variable in this quest has been prosocial role identity. Indeed, the strength of this identity, studies have shown, positively predicts participation in a variety of prosocial activities. Despite this significance, research on service-learning, a widely utilized pedagogical practice intended to prepare prosocially active and engaged citizens, has been largely disconnected from the literature on identity motivated behavior. Yet, this literature provides a strong conceptual foundation for understanding why, when, how, and for whom participation in service-learning will be associated with positive changes in prosocial identities—and, ultimately sustained participation in role-related prosocial behaviors. In this article, we connect these literatures and propose a model.",
+      "date": "06/2023",
+      "language": "English",
+      "url": "https://journals.sagepub.com/doi/10.1177/08997640221108140",
+      "extra": "南农高质量: B",
+      "volume": "52",
+      "pages": "611-630",
+      "publicationTitle": "Nonprofit and Voluntary Sector Quarterly",
+      "DOI": "10.1177/08997640221108140",
+      "issue": "3",
+      "journalAbbreviation": "Nonprofit and Voluntary Sector Quarterly",
+      "ISSN": "0899-7640, 1552-7395",
+      "creators": [
+        {
+          "firstName": "Lindsey M.",
+          "lastName": "McDougle",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Huafang",
+          "lastName": "Li",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "service-learning"
+        },
+        {
+          "tag": "charitable giving"
+        },
+        {
+          "tag": "volunteering"
+        },
+        {
+          "tag": "OUTCOMES"
+        },
+        {
+          "tag": "PERFORMANCE"
+        },
+        {
+          "tag": "BEHAVIOR"
+        },
+        {
+          "tag": "EXPERIENCES"
+        },
+        {
+          "tag": "FUTURE"
+        },
+        {
+          "tag": "VOLUNTEER"
+        },
+        {
+          "tag": "ADOLESCENTS"
+        },
+        {
+          "tag": "CIVIC IDENTITY"
+        },
+        {
+          "tag": "experiential philanthropy"
+        },
+        {
+          "tag": "identity theory"
+        },
+        {
+          "tag": "MORAL IDENTITY"
+        },
+        {
+          "tag": "SALIENCE"
+        },
+        {
+          "tag": "WoS_Main"
+        }
+      ],
+      "collections": [
+        "ZVRQLMR8",
+        "E2YXD6B9",
+        "549AP9NB",
+        "I564IF3C"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/FMKWIGWZ",
+          "http://zotero.org/users/4686528/items/Y6H7JMXB",
+          "http://zotero.org/users/4686528/items/YLMIUTQM"
+        ]
+      },
+      "dateAdded": "2026-07-09T13:24:29Z",
+      "dateModified": "2026-08-18T09:35:32Z"
+    }
+  },
+  {
+    "key": "4YU6VHN4",
+    "version": 96318,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/4YU6VHN4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/4YU6VHN4",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/VNY79CVD",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 3420063
+      }
+    },
+    "meta": {
+      "creatorSummary": "⁨Ballesteros-Sola⁩ and ⁨Magomedova⁩",
+      "parsedDate": "2023-11-01",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "4YU6VHN4",
+      "version": 96318,
+      "itemType": "journalArticle",
+      "title": "Impactful social entrepreneurship education: A US-spanish service learning collaborative online international learning (COIL) project",
+      "abstractNote": "Social Entrepreneurship Education (SEE) is becoming ubiquitous across geographical and institutional contexts. Although service learning (SL) and global learning (GL) are high-impact practices frequently used in SEE, the implementation of SL Collaborative International Online Learning (COIL) in this context is less explored. This study borrows from the literature on SE competencies, SL and GL to address this gap by critically describing a US-Spain seven-week SL COIL project, and, through an exploratory multi-sourced qualitative \"researcher-participants\" study, generating findings related to the effect of this pedagogical tool on the students' competencies. Mixed teams of students had to solve a challenge posed by four social enterprises in the US and Spain. The findings confirm increased personal, social, and cognitive skills, reinforcing the relevance of this pedagogy to increasing intercultural competencies, and reducing the inequities of traditional study-abroad experiences. As an exploratory study, it is limited in its scope, but it provides the foundation for further research into COIL practices in SEE.",
+      "date": "2023-11-01",
+      "shortTitle": "Impactful social entrepreneurship education",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1472811723001040",
+      "accessDate": "2025-01-18T13:00:23Z",
+      "volume": "21",
+      "pages": "100866",
+      "publicationTitle": "The International Journal of Management Education",
+      "DOI": "10.1016/j.ijme.2023.100866",
+      "issue": "3",
+      "journalAbbreviation": "The International Journal of Management Education",
+      "ISSN": "1472-8117",
+      "creators": [
+        {
+          "firstName": "Maria",
+          "lastName": "Ballesteros-Sola",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nina",
+          "lastName": "Magomedova",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "⛔ No INSPIRE recid found",
+          "type": 1
+        },
+        {
+          "tag": "Service learning",
+          "type": 1
+        },
+        {
+          "tag": "Experiential learning",
+          "type": 1
+        },
+        {
+          "tag": "Challenge-based learning",
+          "type": 1
+        },
+        {
+          "tag": "Collaborative online international learning (COIL)",
+          "type": 1
+        },
+        {
+          "tag": "Course design",
+          "type": 1
+        },
+        {
+          "tag": "Intercultural competencies",
+          "type": 1
+        },
+        {
+          "tag": "International communication",
+          "type": 1
+        },
+        {
+          "tag": "Social entrepreneurship education",
+          "type": 1
+        },
+        {
+          "tag": "Team project",
+          "type": 1
+        }
+      ],
+      "collections": [
+        "CUDUZP97"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/IDQGE6L9"
+        ]
+      },
+      "dateAdded": "2024-03-03T14:30:15Z",
+      "dateModified": "2026-08-17T09:43:36Z"
+    }
+  },
+  {
+    "key": "ZPDPIDGR",
+    "version": 92323,
+    "library": {
+      "type": "user",
+      "id": 4686528,
+      "name": "My Library",
+      "links": {
+        "self": {
+          "href": "http://localhost:23119/api/users/4686528",
+          "type": "application/json"
+        },
+        "alternate": {
+          "href": "https://www.zotero.org/users/4686528",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "http://localhost:23119/api/users/4686528/items/ZPDPIDGR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/users/4686528/items/ZPDPIDGR",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "http://localhost:23119/api/users/4686528/items/CXYE9VH2",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 699612
+      }
+    },
+    "meta": {
+      "creatorSummary": "Halberstadt et al.",
+      "parsedDate": "2019-12-09",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "ZPDPIDGR",
+      "version": 92323,
+      "itemType": "journalArticle",
+      "title": "Skills and knowledge management in higher education: How service learning can contribute to social entrepreneurial competence development",
+      "abstractNote": "Purpose\n              The purpose of this paper is to elaborate on how service learning approaches are able to foster social entrepreneurship competences. The aim of the paper is to formulate a framework of key competences for social entrepreneurship and to give first insights in how service learning actually has an impact on change in students’ set of competences.\n            \n            \n              Design/methodology/approach\n              This paper uses a mixed-methods approach combining qualitative data collectionmethods of learning diaries of the students and semi-structured interviews, including 40 master’s students studying at a German university in interdisciplinary learning settings and five instructors from the same universities. Analysis was carried out by means of qualitative content analysis.\n            \n            \n              Findings\n              This paper provides empirical insights about the competences that are being fostered by service learning. From these, a framework for social entrepreneurship competences is being derived.\n            \n            \n              Research limitations/implications\n              The set of competences should be further investigated, as it was derived out of a small data set. Therefore, researchers are encouraged to use the set of competences for social entrepreneurship as a basis for future research and on a longer-term perspective, which lead to substantial implications for educational practice.\n            \n            \n              Practical implications\n              This paper includes implications for new perspectives on service learning in the light of the development of a relevant framework for social entrepreneurship competence, having significant implications for educational practice in social entrepreneurship education.\n            \n            \n              Originality/value\n              With this paper, the authors fulfill the need of a framework of social entrepreneurship competences that serves as a foundation for educational practice and further research in the context of service learning and beyond.",
+      "date": "2019-12-09",
+      "language": "en",
+      "shortTitle": "Skills and knowledge management in higher education",
+      "url": "http://www.emerald.com/jkm/article/23/10/1925-1948/264720",
+      "accessDate": "2025-12-14T09:19:47Z",
+      "rights": "https://www.emerald.com/insight/site-policies",
+      "extra": "南农高质量: A",
+      "volume": "23",
+      "pages": "1925-1948",
+      "publicationTitle": "Journal of Knowledge Management",
+      "DOI": "10.1108/JKM-12-2018-0744",
+      "issue": "10",
+      "journalAbbreviation": "JKM",
+      "ISSN": "1367-3270, 1367-3270",
+      "creators": [
+        {
+          "firstName": "Jantje",
+          "lastName": "Halberstadt",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jana-Michaela",
+          "lastName": "Timm",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sascha",
+          "lastName": "Kraus",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Katherine",
+          "lastName": "Gundolf",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "N7J26KNK",
+        "Z4S9EVIJ",
+        "33VKETNY",
+        "HHKXCSM8",
+        "FXSBIUSI"
+      ],
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/4686528/items/HFT5VR7R",
+          "http://zotero.org/users/4686528/items/JTLKDXBP"
+        ]
+      },
+      "dateAdded": "2025-02-25T06:45:40Z",
+      "dateModified": "2026-07-26T14:07:02Z"
+    }
+  }
+]

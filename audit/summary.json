@@ -1,0 +1,14 @@
+{
+  "audit_date": "2026-08-23",
+  "scope": "Every top-level Zotero item of type journalArticle, paginated without collection or keyword restriction",
+  "journal_articles": 9924,
+  "with_abstracts": 7620,
+  "direct_candidates": 345,
+  "near_scope": 279,
+  "out_of_scope": 9300,
+  "distinct_candidate_journals": 211,
+  "selected": 25,
+  "selected_full_text_reviewed": 23,
+  "selected_abstract_only": 2,
+  "zotero_modified": false
+}

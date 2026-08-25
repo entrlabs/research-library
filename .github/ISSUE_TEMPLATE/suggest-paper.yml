@@ -1,0 +1,44 @@
+name: Suggest a paper
+description: Propose a journal article for editorial screening.
+title: "[Paper]: "
+labels: ["paper suggestion", "screening required"]
+body:
+  - type: input
+    id: citation
+    attributes:
+      label: Complete citation
+    validations:
+      required: true
+  - type: input
+    id: doi
+    attributes:
+      label: DOI or stable publisher URL
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: NEXUS relevance
+      description: Explain the contribution to service-learning or experiential learning.
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence
+    attributes:
+      label: Evidence type
+      options:
+        - Meta-analysis
+        - Systematic or scoping review
+        - Quantitative empirical study
+        - Qualitative empirical study
+        - Mixed-methods study
+        - Conceptual or theoretical article
+    validations:
+      required: true
+  - type: textarea
+    id: conflict
+    attributes:
+      label: Relationship or conflict of interest
+    validations:
+      required: true
+
