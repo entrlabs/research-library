@@ -194,8 +194,8 @@ main table tr:last-child td{border-bottom:none}
 .home-hero-dek{font-size:1.25rem;line-height:1.65;max-width:590px;color:var(--mist)}
 .home-curator{margin-top:70px!important;font:600 .7rem var(--font-label);letter-spacing:var(--tracking-label);text-transform:uppercase;color:var(--faint)!important}
 .home-curator span{display:block;margin-top:7px;color:var(--mist)}
-.library-home-hero__visual{align-self:stretch;display:flex;align-items:center;justify-content:flex-end;min-width:0;overflow:hidden}
-.library-home-hero__visual img{width:min(840px,125%);height:auto;transform:translateX(6%);display:block}
+.library-home-hero__visual{align-self:stretch;display:flex;align-items:center;justify-content:center;min-width:0}
+.library-home-hero__visual img{width:100%;max-width:840px;height:auto;object-fit:contain;display:block}
 .library-ledger{display:grid;grid-template-columns:repeat(4,1fr);border-bottom:1px solid var(--hairline)}
 .library-ledger>div{padding:30px 24px;border-right:1px solid var(--hairline);display:flex;flex-direction:column;gap:6px}
 .library-ledger>div:first-child{padding-left:0}.library-ledger>div:last-child{border-right:0}
