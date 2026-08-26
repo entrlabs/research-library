@@ -141,6 +141,10 @@ main table tr:last-child td{border-bottom:none}
 /* Footer */
 .site-footer{border-top:1px solid var(--hairline);margin-top:64px;padding:64px 32px 0;display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:40px;max-width:var(--max);margin-left:auto;margin-right:auto}
 .footer-brand{display:flex;flex-direction:column;gap:10px}
+.footer-brand .wordmark{gap:8px}
+.footer-brand .wordmark img{height:22px}
+.footer-brand .wordmark .lockup b{font-size:1rem}
+.footer-brand .wordmark .lockup span.tag{font-size:.58rem}
 .footer-brand p{margin:0;font:600 1.05rem var(--font-display);letter-spacing:.02em;color:var(--ink)}
 .footer-brand span{color:var(--mist);font-size:.9rem;line-height:1.5;max-width:260px}
 .site-footer > div{display:flex;flex-direction:column;gap:12px}
