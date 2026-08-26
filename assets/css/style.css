@@ -141,7 +141,8 @@ main table tr:last-child td{border-bottom:none}
 /* Footer */
 .site-footer{border-top:1px solid var(--hairline);margin-top:64px;padding:64px 32px 0;display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:40px;max-width:var(--max);margin-left:auto;margin-right:auto}
 .footer-brand{display:flex;flex-direction:column;gap:10px}
-.footer-brand .wordmark{gap:0}
+.footer-brand .wordmark{gap:7px}
+.footer-logo-icon{width:auto!important;height:20px!important;display:block}
 .footer-wordmark-text{font:700 1rem/1 var(--font-display);letter-spacing:var(--tracking-display);color:var(--ink)}
 .footer-wordmark-text .suffix{color:var(--accent)}
 .footer-brand p{margin:0;font:600 1.05rem var(--font-display);letter-spacing:.02em;color:var(--ink)}
