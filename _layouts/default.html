@@ -32,20 +32,25 @@
   <div class="top-rule"></div>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
-    <a class="wordmark" href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/images/entr-mark-accent.png' | relative_url }}" alt="ENTR">
-      <span class="lockup"><b>ENTR<span class="suffix">LABS</span></b><span class="tag">Research Library</span></span>
-    </a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
-    <nav id="primary-nav" aria-label="Primary navigation">
-      <a{% if page.nav == 'library' %} class="active"{% endif %} href="{{ '/' | relative_url }}">Library</a>
-      <a{% if page.nav == 'collections' %} class="active"{% endif %} href="{{ '/collections/' | relative_url }}">Collections</a>
-      <a href="{{ '/methodology/' | relative_url }}">Methodology</a>
-      <a href="{{ '/contribute/' | relative_url }}">Contribute</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
-    </nav>
-    <div class="header-right">
-      <a class="header-cta" href="https://entr.cc/join">Join EntrLabs</a>
+    <div class="header-inner">
+      <a class="entr-header-logo" href="{{ '/' | relative_url }}" aria-label="EntrLabs Research Library home">
+        <span class="entr-icon-mark" aria-hidden="true"></span>
+        <span class="entr-name">ENTR</span>
+      </a>
+      <span class="header-divider" aria-hidden="true"></span>
+      <a class="publication-title" href="{{ '/' | relative_url }}">
+        <span class="desktop-only">EntrLabs - Research Library</span>
+        <span class="mobile-only">Research Library</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+      <nav id="primary-nav" aria-label="Primary navigation">
+        <a{% if page.nav == 'library' %} class="active"{% endif %} href="{{ '/' | relative_url }}">Library</a>
+        <a{% if page.nav == 'collections' %} class="active"{% endif %} href="{{ '/collections/' | relative_url }}">Collections</a>
+        <a href="{{ '/methodology/' | relative_url }}">Methodology</a>
+        <a href="{{ '/contribute/' | relative_url }}">Contribute</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a class="join" href="https://entr.cc/join">Join</a>
+      </nav>
     </div>
   </header>
   <main id="main">{{ content }}</main>
